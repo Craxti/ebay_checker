@@ -1,0 +1,6 @@
+asyncio
+multiprocessing
+loguru
+aiohttp
+selenium
+selenium - stealth

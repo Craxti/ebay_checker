@@ -1,0 +1,1108 @@
+2023-01-22 00:39:07.289 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 00:39:07.310 | INFO     | parser.account:getAccount:13 - read new accounts 100001pcs
+2023-01-22 00:39:07.325 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 00:39:19.261 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 00:39:19.283 | INFO     | parser.account:getAccount:13 - read new accounts (100001pcs)
+2023-01-22 00:39:19.297 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 00:39:29.040 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 00:39:29.064 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 00:39:29.079 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 00:49:07.759 | INFO     | __main__:<module>:28 - Parser started
+2023-01-22 00:49:07.794 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 00:49:09.411 | WARNING  | __main__:<module>:30 - Parser shutdown
+2023-01-22 00:49:27.180 | INFO     | __main__:<module>:28 - Parser started
+2023-01-22 00:49:27.202 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 00:49:27.216 | WARNING  | __main__:<module>:30 - Parser shutdown
+2023-01-22 00:50:44.663 | INFO     | __main__:<module>:28 - Parser started
+2023-01-22 00:50:44.686 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 00:51:11.689 | INFO     | __main__:<module>:28 - Parser started
+2023-01-22 00:51:11.712 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 00:51:11.728 | WARNING  | __main__:<module>:30 - Parser shutdown
+2023-01-22 01:41:23.877 | INFO     | __main__:<module>:29 - Parser started
+2023-01-22 01:41:23.901 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 01:42:31.642 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 01:42:31.665 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 01:42:31.680 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 01:43:06.380 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 01:43:06.403 | INFO     | parser.account:getAccount:13 - read new accounts (100001 pcs)
+2023-01-22 01:43:16.021 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 02:17:57.517 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 02:17:57.519 | INFO     | parser.account:getAccount:13 - read new accounts (300 pcs)
+2023-01-22 02:17:57.543 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 02:18:30.026 | INFO     | __main__:<module>:30 - Parser started
+2023-01-22 02:18:30.029 | INFO     | parser.account:getAccount:13 - read new accounts (300 pcs)
+2023-01-22 02:18:30.031 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-22 21:45:09.127 | INFO     | __main__:<module>:31 - Parser started
+2023-01-22 21:45:09.135 | INFO     | parser.account:getAccount:13 - read new accounts (300 pcs)
+2023-01-22 21:45:09.137 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-23 21:42:42.923 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 21:42:42.931 | INFO     | parser.account:getAccount:12 - read new accounts (300 pcs)
+2023-01-23 21:42:42.933 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-23 21:43:20.637 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 21:44:14.251 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 21:44:14.253 | INFO     | parser.account:getAccount:12 - read new accounts (300 pcs)
+2023-01-23 21:44:14.254 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-23 23:55:13.574 | INFO     | __main__:<module>:30 - Parser started
+2023-01-23 23:55:13.581 | WARNING  | __main__:<module>:32 - Parser shutdown
+2023-01-23 23:55:30.765 | INFO     | __main__:<module>:30 - Parser started
+2023-01-23 23:55:30.768 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:56:40.139 | INFO     | __main__:<module>:30 - Parser started
+2023-01-23 23:56:40.142 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:57:56.188 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 23:57:56.190 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:58:49.185 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 23:58:49.188 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:59:00.618 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 23:59:00.621 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:59:29.657 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 23:59:29.659 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-23 23:59:44.272 | INFO     | __main__:<module>:31 - Parser started
+2023-01-23 23:59:44.275 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:00:37.881 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:00:37.884 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:01:33.945 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:01:33.947 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:01:46.447 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:01:46.450 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:01:54.775 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:01:54.777 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:02:26.639 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:02:26.641 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:02:43.845 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:02:43.848 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:02:45.017 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-24 00:03:38.499 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:03:38.501 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:03:38.522 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-24 00:03:57.556 | INFO     | __main__:<module>:31 - Parser started
+2023-01-24 00:03:57.559 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:03:57.585 | WARNING  | __main__:<module>:33 - Parser shutdown
+2023-01-24 00:06:06.622 | INFO     | __main__:<module>:34 - Parser started
+2023-01-24 00:06:06.624 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:06:42.999 | INFO     | __main__:<module>:34 - Parser started
+2023-01-24 00:06:43.001 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:07:24.217 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:07:24.219 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:08:02.468 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:08:02.471 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:08:02.493 | WARNING  | __main__:<module>:37 - Parser shutdown
+2023-01-24 00:09:57.216 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:09:57.219 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:10:05.271 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:10:05.274 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:10:06.407 | WARNING  | __main__:<module>:37 - Parser shutdown
+2023-01-24 00:10:39.117 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:10:39.120 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:10:39.141 | WARNING  | __main__:<module>:37 - Parser shutdown
+2023-01-24 00:12:23.292 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:12:23.295 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:12:24.325 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:12:39.807 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:12:39.810 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:12:40.910 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:12:58.432 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:12:58.434 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:13:20.485 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:13:20.487 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:13:21.536 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:13:31.922 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:13:31.925 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:13:33.041 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:13:52.502 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:13:52.505 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:13:53.567 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:15:10.496 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:15:10.498 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:15:25.354 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:15:25.356 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:15:43.948 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:15:43.950 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:15:45.043 | WARNING  | __main__:<module>:39 - Parser shutdown
+2023-01-24 00:15:56.529 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:15:56.532 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:15:57.586 | WARNING  | __main__:<module>:39 - Parser shutdown
+2023-01-24 00:16:07.722 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:16:07.724 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:16:37.916 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:16:37.919 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:16:51.240 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:16:51.243 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:16:52.335 | WARNING  | __main__:<module>:39 - Parser shutdown
+2023-01-24 00:17:17.216 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:17:17.219 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:17:17.223 | WARNING  | __main__:<module>:39 - Parser shutdown
+2023-01-24 00:17:37.846 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:17:37.848 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:17:49.073 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:17:49.076 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:18:12.791 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 00:18:12.793 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:18:12.815 | WARNING  | __main__:<module>:39 - Parser shutdown
+2023-01-24 00:18:49.366 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:18:49.368 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:18:49.389 | WARNING  | __main__:<module>:37 - Parser shutdown
+2023-01-24 00:25:54.171 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:25:54.174 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:25:54.197 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:25:54.219 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:25:57.598 | INFO     | __main__:<module>:35 - Parser started
+2023-01-24 00:25:57.601 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:25:57.634 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:25:57.665 | WARNING  | __main__:<module>:38 - Parser shutdown
+2023-01-24 00:27:56.289 | INFO     | __main__:<module>:38 - Parser started
+2023-01-24 00:28:07.759 | INFO     | __main__:<module>:38 - Parser started
+2023-01-24 00:28:07.763 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:28:07.765 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:28:07.767 | WARNING  | __main__:<module>:42 - Parser shutdown
+2023-01-24 00:28:27.229 | INFO     | __main__:<module>:38 - Parser started
+2023-01-24 00:28:27.232 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:28:27.233 | WARNING  | __main__:<module>:42 - Parser shutdown
+2023-01-24 00:33:31.178 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:33:31.181 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:33:41.059 | INFO     | __main__:<module>:36 - Parser started
+2023-01-24 00:33:41.061 | INFO     | parser.account:getAccounts:12 - read new accounts (300 pcs)
+2023-01-24 00:33:41.093 | WARNING  | __main__:<module>:40 - Parser shutdown
+2023-01-24 01:04:06.878 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 01:04:06.878 | INFO     | __main__:<module>:37 - Parser started
+2023-01-24 01:04:06.881 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:04:06.881 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:04:06.905 | WARNING  | __main__:<module>:41 - Parser shutdown
+2023-01-24 01:04:06.905 | WARNING  | __main__:<module>:41 - Parser shutdown
+2023-01-24 01:12:23.371 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:12:23.373 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:13:50.842 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:13:50.845 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:14:54.621 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:14:54.623 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:15:51.355 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:15:51.359 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:16:14.491 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:16:14.494 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:16:14.517 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:16:14.519 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:16:41.390 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:16:41.392 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:16:41.415 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:18:10.736 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:18:10.739 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:18:25.802 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:18:25.805 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:18:36.086 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:18:36.088 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:18:36.111 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:18:47.934 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:18:47.937 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:18:47.960 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:19:20.149 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:19:20.152 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:19:20.176 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:19:27.505 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:19:27.508 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:19:27.530 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:19:37.816 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:19:37.819 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:19:37.841 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:19:37.843 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:19:39.252 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:19:39.255 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:19:39.277 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:19:39.280 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:03.019 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:03.021 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:03.043 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:03.045 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:14.575 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:14.578 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:14.600 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:14.602 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:16.744 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:16.747 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:16.770 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:16.774 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:18.501 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:18.504 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:18.526 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:18.528 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:21.284 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:21.286 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:21.309 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:21.310 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:23.948 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:23.951 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:23.972 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:23.974 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:33.918 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:33.920 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:33.943 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:33.945 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:35.638 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:35.641 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:35.663 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:35.666 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:37.201 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:37.204 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:37.226 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:37.228 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:38.879 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:38.881 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:38.918 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:38.921 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:40.338 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:40.340 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:40.363 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:40.365 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:41.973 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:41.976 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:41.998 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:42.000 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:43.691 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:43.694 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:43.716 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:43.717 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:45.450 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:45.453 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:45.475 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:45.477 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:46.983 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:46.986 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:47.007 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:47.009 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:48.593 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:48.596 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:48.618 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:48.620 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:20:50.201 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:20:50.204 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:20:50.226 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:20:50.229 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:21:44.798 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:21:44.801 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:21:44.823 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:21:58.372 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:21:58.374 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:21:58.397 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:22:12.817 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:22:12.820 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:22:12.843 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:22:48.198 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:22:48.200 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:22:48.223 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:25:02.279 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:25:02.282 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:25:02.304 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:25:02.306 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:25:04.064 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:25:04.067 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:25:04.095 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:25:04.098 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:25:07.224 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:25:07.227 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:25:07.249 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:25:07.251 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:25:47.217 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:25:47.220 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:25:47.243 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:13.368 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:26:13.370 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:26:13.392 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:32.766 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:26:32.770 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:26:32.792 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:32.794 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:26:36.053 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:26:36.056 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:26:36.078 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:36.079 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:26:54.375 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:26:54.377 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:26:54.401 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:54.403 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:26:56.285 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:26:56.288 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:26:56.310 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:26:56.312 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:28:03.208 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:28:03.211 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:28:03.233 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:28:03.235 | WARNING  | __main__:<module>:44 - Parser shutdown
+2023-01-24 01:28:10.560 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:28:10.563 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:28:10.585 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:28:10.586 | WARNING  | __main__:<module>:44 - Parser shutdown
+2023-01-24 01:29:14.220 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:29:14.223 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:29:14.245 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:29:35.055 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:29:35.057 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:29:35.080 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:32:56.009 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:32:56.012 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:33:27.897 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:33:27.900 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:33:27.922 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:33:52.630 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:33:52.633 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:33:52.655 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:33:52.657 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:34:16.335 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:34:16.338 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:34:35.034 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:34:35.037 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:34:35.061 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:34:35.063 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:34:41.399 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:34:41.401 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:34:41.432 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:34:41.434 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:13.349 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:13.351 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:13.373 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:13.375 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:15.842 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:15.844 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:15.871 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:15.874 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:17.747 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:17.749 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:17.771 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:17.773 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:18.874 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:18.876 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:18.897 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:18.899 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:25.199 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:25.202 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:25.225 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:25.227 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:35:59.583 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:35:59.585 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:35:59.607 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:35:59.609 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:36:01.576 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:36:01.578 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:36:01.606 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:36:01.610 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:36:19.067 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 01:36:19.070 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:36:19.090 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:36:19.092 | WARNING  | __main__:<module>:46 - Parser shutdown
+2023-01-24 01:37:29.680 | INFO     | __main__:<module>:41 - Parser started
+2023-01-24 01:37:29.682 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:37:29.684 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:37:29.686 | WARNING  | __main__:<module>:45 - Parser shutdown
+2023-01-24 01:37:36.968 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:37:36.970 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:37:36.971 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:37:36.973 | WARNING  | __main__:<module>:44 - Parser shutdown
+2023-01-24 01:38:15.764 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:38:15.766 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:38:15.767 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:38:15.769 | WARNING  | __main__:<module>:44 - Parser shutdown
+2023-01-24 01:40:11.037 | INFO     | __main__:<module>:40 - Parser started
+2023-01-24 01:40:11.039 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:40:11.040 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:40:11.041 | WARNING  | __main__:<module>:44 - Parser shutdown
+2023-01-24 01:40:29.081 | INFO     | __main__:<module>:41 - Parser started
+2023-01-24 01:40:29.083 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:40:29.084 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:40:29.086 | WARNING  | __main__:<module>:45 - Parser shutdown
+2023-01-24 01:44:51.213 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:44:51.215 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:44:51.216 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:44:51.218 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:58:27.759 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:58:27.761 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:58:27.762 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:58:27.764 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:58:36.557 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:58:36.559 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:58:36.561 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:58:36.563 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 01:58:54.318 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 01:58:54.320 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 01:58:54.321 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 01:58:54.323 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 02:01:55.095 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 02:01:55.098 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 02:01:55.100 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 02:01:55.100 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 02:02:02.111 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 02:02:02.113 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 02:02:02.114 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 02:02:02.116 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 02:02:07.639 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 02:02:07.641 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 02:02:07.642 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 02:02:07.644 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 18:02:57.246 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 18:05:04.891 | INFO     | __main__:<module>:42 - Parser started
+2023-01-24 18:05:04.897 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 18:08:17.921 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 18:08:30.244 | INFO     | __main__:<module>:39 - Parser started
+2023-01-24 18:08:30.246 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 18:08:30.252 | INFO     | parser.proxy:getProxies:11 - read new proxies (1000 pcs)
+2023-01-24 18:08:30.254 | WARNING  | __main__:<module>:43 - Parser shutdown
+2023-01-24 20:38:05.890 | INFO     | __main__:<module>:48 - Parser started
+2023-01-24 20:38:05.896 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:38:05.929 | WARNING  | __main__:<module>:52 - Parser shutdown
+2023-01-24 20:38:24.632 | INFO     | __main__:<module>:48 - Parser started
+2023-01-24 20:38:24.634 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:38:27.255 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:44.032 | INFO     | __main__:<module>:47 - Parser started
+2023-01-24 20:38:44.034 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:38:46.438 | ERROR    | parser.ebay_checker:login:24 - Account ['2xYGM7tIcBycB9w0@yopmail.net', 'CsQ9T65XQE43hKVR'] is invalid. Wrote into bad account file
+2023-01-24 20:38:46.439 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:47.620 | ERROR    | parser.ebay_checker:login:24 - Account ['XVkZAOMCpL04Go4A@moncourrier.fr.nf', 'oPav7A9xWutLfh6N'] is invalid. Wrote into bad account file
+2023-01-24 20:38:47.621 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:48.695 | ERROR    | parser.ebay_checker:login:24 - Account ['t9z6ySpcAuSeZTPM@courriel.fr.nf', '7GrZk2qU3eEu7eHi'] is invalid. Wrote into bad account file
+2023-01-24 20:38:48.696 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:49.910 | ERROR    | parser.ebay_checker:login:24 - Account ['24WSe5PlDAMmuu3l@mymail.infos.st', 'ifIm18tenGRYFBW5'] is invalid. Wrote into bad account file
+2023-01-24 20:38:49.911 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:50.994 | ERROR    | parser.ebay_checker:login:24 - Account ['dn6GcZb0xsMcxxOk@yopmail.fr', 'xple5ZRRk8N4nEWe'] is invalid. Wrote into bad account file
+2023-01-24 20:38:50.995 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:52.091 | ERROR    | parser.ebay_checker:login:24 - Account ['CBrEI0k7O5FrLF5w@yopmail.net', 'N9zH10Bo96Bggu2k'] is invalid. Wrote into bad account file
+2023-01-24 20:38:52.092 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:53.744 | ERROR    | parser.ebay_checker:login:24 - Account ['ksq6pd5tNOkANMZY@monmail.fr.nf', 'epUp8Pk4C829wTlB'] is invalid. Wrote into bad account file
+2023-01-24 20:38:53.745 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:55.028 | ERROR    | parser.ebay_checker:login:24 - Account ['50lz2F3XIgrWI4zR@monmail.fr.nf', 'vsyWGmWL8RMVKTq7'] is invalid. Wrote into bad account file
+2023-01-24 20:38:55.029 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:56.217 | ERROR    | parser.ebay_checker:login:24 - Account ['ldfMxvvXnxy1cuCC@monmail.fr.nf', '1BG9IG3T3xPlETQX'] is invalid. Wrote into bad account file
+2023-01-24 20:38:56.218 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:57.195 | ERROR    | parser.ebay_checker:login:24 - Account ['Y90GZSle0cq2ceZu@yopmail.com', 'ktIL6CbgDoFvEPO9'] is invalid. Wrote into bad account file
+2023-01-24 20:38:57.196 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:58.201 | ERROR    | parser.ebay_checker:login:24 - Account ['gOWsbd8WH8OgQkBn@yopmail.net', '7LYAN7K7b6ef6h85'] is invalid. Wrote into bad account file
+2023-01-24 20:38:58.202 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:38:59.423 | ERROR    | parser.ebay_checker:login:24 - Account ['0pghAQfULo4coamm@courriel.fr.nf', 'XmQ5mWB7StMXq1BU'] is invalid. Wrote into bad account file
+2023-01-24 20:38:59.424 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:00.479 | ERROR    | parser.ebay_checker:login:24 - Account ['64rMSqODL6GiTFGR@moncourrier.fr.nf', 'SPhrsACG8i67x80c'] is invalid. Wrote into bad account file
+2023-01-24 20:39:00.480 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:01.700 | ERROR    | parser.ebay_checker:login:24 - Account ['61g28fDwzyVhUbGn@yopmail.com', 'EKUZ6HPseZ5rftGF'] is invalid. Wrote into bad account file
+2023-01-24 20:39:01.701 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:02.722 | ERROR    | parser.ebay_checker:login:24 - Account ['0otUvqd73r1T2G3B@cool.fr.nf', 'cSN60Fo4Oc1MbSSy'] is invalid. Wrote into bad account file
+2023-01-24 20:39:02.723 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:03.712 | ERROR    | parser.ebay_checker:login:24 - Account ['ZgFg5eO0IhYTcORk@mymail.infos.st', '8zEznqhanmL4HfnR'] is invalid. Wrote into bad account file
+2023-01-24 20:39:03.713 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:04.840 | ERROR    | parser.ebay_checker:login:24 - Account ['KICwgOY0A7mGKAbm@monemail.fr.nf', 'Vvf78P12YDKmvpRL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:04.841 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:05.852 | ERROR    | parser.ebay_checker:login:24 - Account ['t0rb3YDo4nRPDVxW@courriel.fr.nf', 'GF0WU5GbAXtXuPTd'] is invalid. Wrote into bad account file
+2023-01-24 20:39:05.853 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:06.901 | ERROR    | parser.ebay_checker:login:24 - Account ['97F9s9H84gaOgeBr@cool.fr.nf', 'xPgllG8pEKfqwMKx'] is invalid. Wrote into bad account file
+2023-01-24 20:39:06.902 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:07.225 | SUCCESS  | parser.ebay_checker:login:29 - Account {account} is valid! Next step
+2023-01-24 20:39:38.720 | INFO     | __main__:<module>:47 - Parser started
+2023-01-24 20:39:38.721 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:39:41.217 | ERROR    | parser.ebay_checker:login:25 - Account ['2xYGM7tIcBycB9w0@yopmail.net', 'CsQ9T65XQE43hKVR'] is invalid. Wrote into bad account file
+2023-01-24 20:39:43.591 | ERROR    | parser.ebay_checker:login:25 - Account ['XVkZAOMCpL04Go4A@moncourrier.fr.nf', 'oPav7A9xWutLfh6N'] is invalid. Wrote into bad account file
+2023-01-24 20:39:44.866 | ERROR    | parser.ebay_checker:login:25 - Account ['t9z6ySpcAuSeZTPM@courriel.fr.nf', '7GrZk2qU3eEu7eHi'] is invalid. Wrote into bad account file
+2023-01-24 20:39:46.492 | ERROR    | parser.ebay_checker:login:25 - Account ['24WSe5PlDAMmuu3l@mymail.infos.st', 'ifIm18tenGRYFBW5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:47.596 | ERROR    | parser.ebay_checker:login:25 - Account ['dn6GcZb0xsMcxxOk@yopmail.fr', 'xple5ZRRk8N4nEWe'] is invalid. Wrote into bad account file
+2023-01-24 20:39:48.645 | ERROR    | parser.ebay_checker:login:25 - Account ['CBrEI0k7O5FrLF5w@yopmail.net', 'N9zH10Bo96Bggu2k'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.631 | ERROR    | parser.ebay_checker:login:25 - Account ['ksq6pd5tNOkANMZY@monmail.fr.nf', 'epUp8Pk4C829wTlB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.633 | ERROR    | parser.ebay_checker:login:25 - Account ['50lz2F3XIgrWI4zR@monmail.fr.nf', 'vsyWGmWL8RMVKTq7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.636 | ERROR    | parser.ebay_checker:login:25 - Account ['ldfMxvvXnxy1cuCC@monmail.fr.nf', '1BG9IG3T3xPlETQX'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.639 | ERROR    | parser.ebay_checker:login:25 - Account ['Y90GZSle0cq2ceZu@yopmail.com', 'ktIL6CbgDoFvEPO9'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.643 | ERROR    | parser.ebay_checker:login:25 - Account ['gOWsbd8WH8OgQkBn@yopmail.net', '7LYAN7K7b6ef6h85'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.646 | ERROR    | parser.ebay_checker:login:25 - Account ['0pghAQfULo4coamm@courriel.fr.nf', 'XmQ5mWB7StMXq1BU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.648 | ERROR    | parser.ebay_checker:login:25 - Account ['64rMSqODL6GiTFGR@moncourrier.fr.nf', 'SPhrsACG8i67x80c'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.651 | ERROR    | parser.ebay_checker:login:25 - Account ['61g28fDwzyVhUbGn@yopmail.com', 'EKUZ6HPseZ5rftGF'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.656 | ERROR    | parser.ebay_checker:login:25 - Account ['0otUvqd73r1T2G3B@cool.fr.nf', 'cSN60Fo4Oc1MbSSy'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.663 | ERROR    | parser.ebay_checker:login:25 - Account ['ZgFg5eO0IhYTcORk@mymail.infos.st', '8zEznqhanmL4HfnR'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.667 | ERROR    | parser.ebay_checker:login:25 - Account ['KICwgOY0A7mGKAbm@monemail.fr.nf', 'Vvf78P12YDKmvpRL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.670 | ERROR    | parser.ebay_checker:login:25 - Account ['t0rb3YDo4nRPDVxW@courriel.fr.nf', 'GF0WU5GbAXtXuPTd'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.671 | ERROR    | parser.ebay_checker:login:25 - Account ['97F9s9H84gaOgeBr@cool.fr.nf', 'xPgllG8pEKfqwMKx'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.672 | ERROR    | parser.ebay_checker:login:25 - Account ['s7lHml7y89i4VmxO@yopmail.fr', 't1ox27m9VBp0GKzk'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.674 | ERROR    | parser.ebay_checker:login:25 - Account ['78ITFdnTrKS5hXIZ@mymail.infos.st', 'ERqaxQZZX1cgVgVV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.676 | ERROR    | parser.ebay_checker:login:25 - Account ['ro6PGMR18ndrhxys@hide.biz.st', 'eGNqakO5BI3KkFL0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.677 | ERROR    | parser.ebay_checker:login:25 - Account ['GNAIhuL15mrVCuVX@jetable.fr.nf', 'QGbg9uuBX8e9ZLHI'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.679 | ERROR    | parser.ebay_checker:login:25 - Account ['YzD0QDm2dW3NF8xO@hide.biz.st', 'd95lCxqhgqvilXat'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.681 | ERROR    | parser.ebay_checker:login:25 - Account ['wlOrBzK4bbNLc4GT@courriel.fr.nf', 'yIWxivBWYCMQZaS5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.683 | ERROR    | parser.ebay_checker:login:25 - Account ['yiIQgAghhGmlcixn@monmail.fr.nf', 'VkcWaMv6ByvGlSK0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.685 | ERROR    | parser.ebay_checker:login:25 - Account ['3OZ48YdCQarXvBwm@monmail.fr.nf', '7GFeC1KA9z0Fgv8E'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.687 | ERROR    | parser.ebay_checker:login:25 - Account ['ku2HaLarNIhB5K2H@yopmail.fr', 'MKSEOHoDFBCW3Sta'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.687 | ERROR    | parser.ebay_checker:login:25 - Account ['xqXU44zDPGQ1S4Pg@mymail.infos.st', 'Q4G7UqvbzWNFqr5I'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.690 | ERROR    | parser.ebay_checker:login:25 - Account ['nkuo6wNcG5pfBC4l@monmail.fr.nf', 'w13Fg6oew1zQ6LsZ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.691 | ERROR    | parser.ebay_checker:login:25 - Account ['DcU0AHV3NO4uAkQ7@courriel.fr.nf', 'HW2PEdFwogc2Ge6z'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.692 | ERROR    | parser.ebay_checker:login:25 - Account ['nNg0NfyHVLPDB5zr@hide.biz.st', 'ngQ6xwybfGgm2p9E'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.694 | ERROR    | parser.ebay_checker:login:25 - Account ['6k3yYRwApzUGLxAQ@yopmail.fr', '2ToPuqoBeFgN8UrG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.695 | ERROR    | parser.ebay_checker:login:25 - Account ['tgdXKpXc0e9CX0vE@cool.fr.nf', 'CHqHkRpu8Z8xvkdH'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.696 | ERROR    | parser.ebay_checker:login:25 - Account ['b3PMYVhZseGDGIUx@yopmail.net', '48agU7grc7SgbSWe'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.698 | ERROR    | parser.ebay_checker:login:25 - Account ['YyRf52RRl7Gw9Fgw@yopmail.net', '1sdDKGwqveZIMyrC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.698 | ERROR    | parser.ebay_checker:login:25 - Account ['ks8Mzolzs6TCmWyg@yopmail.net', 'YL7pmZV3AGq712Gx'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.700 | ERROR    | parser.ebay_checker:login:25 - Account ['m39F6NZLGi0EXE9U@yopmail.com', '6Fp2zWghmZx0LaCO'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.701 | ERROR    | parser.ebay_checker:login:25 - Account ['Lg4TQEglSkLtYmD7@yopmail.fr', 'K8tQHBWm6OvTNIGY'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.702 | ERROR    | parser.ebay_checker:login:25 - Account ['bGAr46gpYgi7l7qM@jetable.fr.nf', '5IgEQ83pz3GNmoMH'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.703 | ERROR    | parser.ebay_checker:login:25 - Account ['UOAiSfSwpWurrrnh@hide.biz.st', 'SXLwH14roR9oKqR6'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.704 | ERROR    | parser.ebay_checker:login:25 - Account ['U5TkMOryDOGbHHlG@cool.fr.nf', 'GVXoenm8TzdFKer2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.706 | ERROR    | parser.ebay_checker:login:25 - Account ['4IrXP9iqirpiZ8wb@moncourrier.fr.nf', '9ou3KuBG76LnBBQo'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.707 | ERROR    | parser.ebay_checker:login:25 - Account ['cFUY9710lKT9Diuc@courriel.fr.nf', 'MPHwkLEvE3dVsl3o'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.708 | ERROR    | parser.ebay_checker:login:25 - Account ['po96pnQutRIK3IZZ@mymail.infos.st', 'veCrND26HhgkldNS'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.709 | ERROR    | parser.ebay_checker:login:25 - Account ['5QVM2pwLAdNhM8Y5@monmail.fr.nf', 'iGETtIi7Ia4dckME'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.710 | ERROR    | parser.ebay_checker:login:25 - Account ['QIgstA0H3dbxDWe2@yopmail.net', 'a3tcbBYCLgdoR09Q'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.711 | ERROR    | parser.ebay_checker:login:25 - Account ['oMFDRwW6GPsvdGvG@jetable.fr.nf', 'sHNXrRimlSi9pyR6'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.712 | ERROR    | parser.ebay_checker:login:25 - Account ['KFsdGH3tlagdQScq@cool.fr.nf', 'iKm3o0P5X5AtI5bY'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.713 | ERROR    | parser.ebay_checker:login:25 - Account ['mmfNKmLS3eeQ0a2M@yopmail.net', 'vLO9ZXkFqb0Rz9hT'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.715 | ERROR    | parser.ebay_checker:login:25 - Account ['mw8bGHqBtUQ6loEl@yopmail.net', 'WZDGtyah89AOKUrC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.716 | ERROR    | parser.ebay_checker:login:25 - Account ['34rfbhCc5RaEibxv@yopmail.net', 'GA5DNUAiDAAh66wT'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.717 | ERROR    | parser.ebay_checker:login:25 - Account ['59RlSyF9gtq88Vdd@yopmail.fr', 'vpdgPTsEm2TGW8Ln'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.718 | ERROR    | parser.ebay_checker:login:25 - Account ['cs2rBLUwz4Ib2At2@yopmail.fr', 'OEKacamglOISClh0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.719 | ERROR    | parser.ebay_checker:login:25 - Account ['mUxM0Ym7Bebtptg4@yopmail.com', '2BGIir3waLfDpp5E'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.720 | ERROR    | parser.ebay_checker:login:25 - Account ['lWcNIypGHYWkZLfB@mymail.infos.st', 'ytz5CQmkEGRlRiuG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.722 | ERROR    | parser.ebay_checker:login:25 - Account ['kkw5axgpTguaDsH2@mymail.infos.st', 'CWgmU6Empv6iA6oI'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.723 | ERROR    | parser.ebay_checker:login:25 - Account ['srKCgnGuMh4vPmpg@yopmail.com', 'QMk4G401K91aXv1r'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.725 | ERROR    | parser.ebay_checker:login:25 - Account ['yh46srRQzqeWECGp@monemail.fr.nf', 'GoZ4o80iLCfmrqgi'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.727 | ERROR    | parser.ebay_checker:login:25 - Account ['kfwDMgws2B2GFbHC@courriel.fr.nf', 'TlAPoWTBoSyB4lK0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.728 | ERROR    | parser.ebay_checker:login:25 - Account ['qno43Ht74KTgxwCU@monmail.fr.nf', '3XFLWrNGANFhadUK'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.729 | ERROR    | parser.ebay_checker:login:25 - Account ['pvPAwD5MsLSrpvWc@mymail.infos.st', 'pOKdXvwrD6zv8GOe'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.730 | ERROR    | parser.ebay_checker:login:25 - Account ['XVWagsNaxgfor7RC@yopmail.fr', 'zGooZkmmOZcBM3PL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.732 | ERROR    | parser.ebay_checker:login:25 - Account ['TDolEN2MqICu6WXI@yopmail.net', 'F2tEzZtYvB9hccOV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.733 | ERROR    | parser.ebay_checker:login:25 - Account ['0tfUrcYLGpCiWcre@yopmail.fr', 'qfqVCbNGU2222Pp7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.735 | ERROR    | parser.ebay_checker:login:25 - Account ['bW8dzkd213XPbg86@monmail.fr.nf', 'HZMgy6uLC9WKczV7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.736 | ERROR    | parser.ebay_checker:login:25 - Account ['7saDOCgwVSOvNHS7@jetable.fr.nf', 'teG1E94tZba7MIQQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.737 | ERROR    | parser.ebay_checker:login:25 - Account ['rGE3MCbYCBb7koHd@cool.fr.nf', 'XASaoHo5YK1gWeG3'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.738 | ERROR    | parser.ebay_checker:login:25 - Account ['RZgpSOPkuFg4Gh0F@yopmail.com', 'RsUOFoKeBzDdgx6U'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.739 | ERROR    | parser.ebay_checker:login:25 - Account ['egGPKn27VTUbcunp@yopmail.net', '9SFn3w2kGowBp4r4'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.740 | ERROR    | parser.ebay_checker:login:25 - Account ['zzqSKG02DrM8rbmQ@yopmail.fr', 'gqkFibGV7g54shro'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.742 | ERROR    | parser.ebay_checker:login:25 - Account ['8SrVTynQxZwIHg5U@jetable.fr.nf', 'sYZgcRKhqXBvEHod'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.743 | ERROR    | parser.ebay_checker:login:25 - Account ['CY5sSmWx1TYMA60O@monmail.fr.nf', '3UzL4ddmbi3BHrbY'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.744 | ERROR    | parser.ebay_checker:login:25 - Account ['zvNXnzkBSBfE6HGt@yopmail.net', 'UITvPKYGq9763RFf'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.745 | ERROR    | parser.ebay_checker:login:25 - Account ['MdbKrLt1GMlCD3zF@cool.fr.nf', 'rlNvcTuHOvbqcY5i'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.747 | ERROR    | parser.ebay_checker:login:25 - Account ['80UtFNqGDqfmbOnM@jetable.fr.nf', 'vyPyhRtBNLticzB3'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.748 | ERROR    | parser.ebay_checker:login:25 - Account ['7E67swZMxfCYq1TL@yopmail.net', '4p2O0lvbQmwsQiKw'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.750 | ERROR    | parser.ebay_checker:login:25 - Account ['gPypUNqIRwVRTi36@yopmail.fr', '8ytngwKgmQFHOsWM'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.750 | ERROR    | parser.ebay_checker:login:25 - Account ['v8c5ZRp3b30Vou4r@yopmail.net', 'HKhaZmhwOoOSMNLr'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.752 | ERROR    | parser.ebay_checker:login:25 - Account ['OwRkD0YA0eQoOkGO@courriel.fr.nf', 'iPIPhwzB0Sp1K2QC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.754 | ERROR    | parser.ebay_checker:login:25 - Account ['Po5Q5YUlaW1pbagN@cool.fr.nf', 'ozURPMibZ3mBXZoZ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.756 | ERROR    | parser.ebay_checker:login:25 - Account ['qCqdWwAkQS2HsHbS@yopmail.net', 'Fg1hGov9A6sayUVn'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.756 | ERROR    | parser.ebay_checker:login:25 - Account ['EO40bx7sbmrkmetK@monemail.fr.nf', 'P7qZrcr7ITpeeLDs'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.757 | ERROR    | parser.ebay_checker:login:25 - Account ['7A96PgAifOVQWykU@hide.biz.st', '06apzmxateoFtKlM'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.759 | ERROR    | parser.ebay_checker:login:25 - Account ['YxIV14W2L9Gy5nRv@moncourrier.fr.nf', 'FFfwb85CgLLrprsH'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.761 | ERROR    | parser.ebay_checker:login:25 - Account ['swd1z3obMUFMQRg7@yopmail.fr', '2tcodNcSDmiGrIAV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.762 | ERROR    | parser.ebay_checker:login:25 - Account ['xcY6L0acVVYAg0oL@yopmail.net', 'neQLCZg1QWGT8WTm'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.763 | ERROR    | parser.ebay_checker:login:25 - Account ['QS60hm6qt1cipADu@moncourrier.fr.nf', 'ciGHr2hNDYWMA1hm'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.764 | ERROR    | parser.ebay_checker:login:25 - Account ['RhnoqDfBGVD2Ck5M@moncourrier.fr.nf', 'kf5NTcRGV9VuOf2W'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.766 | ERROR    | parser.ebay_checker:login:25 - Account ['F99agyKvG6caUmiB@jetable.fr.nf', 'gZALc76oDNAFhaT4'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.767 | ERROR    | parser.ebay_checker:login:25 - Account ['gge9pSHIwUGN5bML@yopmail.fr', '6SEvVfuz56YM6CyQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.769 | ERROR    | parser.ebay_checker:login:25 - Account ['PnsZFurtXY5UU7RO@monemail.fr.nf', '6SguHmERBrNNrYps'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.770 | ERROR    | parser.ebay_checker:login:25 - Account ['OXhYCVdhqxGssgEN@yopmail.com', 'fIZ5f8NTXIFhFsao'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.772 | ERROR    | parser.ebay_checker:login:25 - Account ['X7y9qzdFmGGtv1MP@cool.fr.nf', 'ap9RFqI7DSCvehdO'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.774 | ERROR    | parser.ebay_checker:login:25 - Account ['eUAI8mO3tVA97TDD@yopmail.com', 'DqhggLdldwNyodxA'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.775 | ERROR    | parser.ebay_checker:login:25 - Account ['aSTKzvSn6wDr7zg0@monmail.fr.nf', 'wwAQSSyUX6QcvIdf'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.776 | ERROR    | parser.ebay_checker:login:25 - Account ['ng5YsKZdVYWO9OOA@mymail.infos.st', 'NgFozY8mIp8qRtI2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.778 | ERROR    | parser.ebay_checker:login:25 - Account ['zLYMEVYHk0GTHKGa@yopmail.com', '9wrGdS5BaIhRH5mp'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.778 | ERROR    | parser.ebay_checker:login:25 - Account ['dZWRbUILCfW6ewMQ@mymail.infos.st', 'PgFskeA8O8w4L02z'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.779 | ERROR    | parser.ebay_checker:login:25 - Account ['XvR9AB10iKce3Nm3@monemail.fr.nf', '9LIiLyXtgFpOiuRg'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.781 | ERROR    | parser.ebay_checker:login:25 - Account ['MGNID6HX6iukUn5S@yopmail.com', 'Mca7xVzgLnfRgK0g'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.783 | ERROR    | parser.ebay_checker:login:25 - Account ['iYOYyGapAwo4N3Wo@courriel.fr.nf', 'vcB1t7PCQQ38FNi4'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.783 | ERROR    | parser.ebay_checker:login:25 - Account ['3Y60ZYNxXR9zSPep@hide.biz.st', 'uGZO3NfcvbWb0L1w'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.785 | ERROR    | parser.ebay_checker:login:25 - Account ['QIUVgIowFIUAmzns@yopmail.fr', 'e3aeGdOXcYTml377'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.786 | ERROR    | parser.ebay_checker:login:25 - Account ['de6qTtbd4LsigTFf@jetable.fr.nf', 'xrYPXLgFamRg0Yn9'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.788 | ERROR    | parser.ebay_checker:login:25 - Account ['FcAGHLZ5XPN1Wz8B@monemail.fr.nf', 'V4ItB6h8gUWdbgpI'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.790 | ERROR    | parser.ebay_checker:login:25 - Account ['yK5IaoU2Z0Vp8r8n@courriel.fr.nf', '1vsAFFXnT7cKYcrI'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.790 | ERROR    | parser.ebay_checker:login:25 - Account ['sb1IgpS1QlN5KCzF@yopmail.com', '5IqRaZqliwrNRY5h'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.791 | ERROR    | parser.ebay_checker:login:25 - Account ['VWlFIAqOMZnvq3FA@moncourrier.fr.nf', 'fFkW64MgTeDxW8Re'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.792 | ERROR    | parser.ebay_checker:login:25 - Account ['SMnMGAvRt0mZD8pg@yopmail.fr', 'HZ5sZUhxOHKenYFK'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.794 | ERROR    | parser.ebay_checker:login:25 - Account ['dt6qbKd7NMn9Kbpo@mymail.infos.st', 'QiZXHKA55IbYCw8B'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.796 | ERROR    | parser.ebay_checker:login:25 - Account ['8opKuawbnygGtiRM@moncourrier.fr.nf', 'GWXLozehER4oGawr'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.797 | ERROR    | parser.ebay_checker:login:25 - Account ['wIUZD9kCzEnSQF1H@monmail.fr.nf', 'FGYIsxPGbhRwVV8n'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.798 | ERROR    | parser.ebay_checker:login:25 - Account ['p4UaN3hWnx0NXtN7@monemail.fr.nf', 'CZKAnNUFKdlHtt8s'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.799 | ERROR    | parser.ebay_checker:login:25 - Account ['nKfMkzGXgmsVVAVE@moncourrier.fr.nf', 'B1E9ygGKlMr04edG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.801 | ERROR    | parser.ebay_checker:login:25 - Account ['zMeMaMXUFT7p6wKY@jetable.fr.nf', 'To2xdPDTVsoRO1Wv'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.802 | ERROR    | parser.ebay_checker:login:25 - Account ['uoRRQB13OiT1zsaG@yopmail.fr', '5L3F5exA6weA9GZG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.803 | ERROR    | parser.ebay_checker:login:25 - Account ['BlTdAoOSOBdWVCYg@jetable.fr.nf', '5cCDYG52gc4LvGfW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.804 | ERROR    | parser.ebay_checker:login:25 - Account ['3WzWRKbSLnHg8E4n@monemail.fr.nf', 'KGlyVY0lzyA4QOVv'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.805 | ERROR    | parser.ebay_checker:login:25 - Account ['3oXEg687OvPo9oMR@jetable.fr.nf', '3gis3s6nDozZGl7v'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.807 | ERROR    | parser.ebay_checker:login:25 - Account ['PERsqMek4AVDgqX1@hide.biz.st', 'L8GdRs0sESkAdFZB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.808 | ERROR    | parser.ebay_checker:login:25 - Account ['9KrTkuImWwVG6QDz@jetable.fr.nf', 'KT5ISymOI1yfOE2k'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.810 | ERROR    | parser.ebay_checker:login:25 - Account ['IbrZRXzyQsi5o2hc@cool.fr.nf', 'Y1sM9IZc5uVy5plD'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.811 | ERROR    | parser.ebay_checker:login:25 - Account ['0bm8rgiT7XAsWh1s@hide.biz.st', 'yGwGtM2Ph0DZHKFQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.812 | ERROR    | parser.ebay_checker:login:25 - Account ['2UXficHM31lGpPRh@monemail.fr.nf', 'DqvGgegfrkSsNGGC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.813 | ERROR    | parser.ebay_checker:login:25 - Account ['rIOTaFfFioBYhFl8@yopmail.net', 'dHYtGArWr4DSu8va'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.815 | ERROR    | parser.ebay_checker:login:25 - Account ['i4DsFCX9WPTGggmX@moncourrier.fr.nf', 'OaQlHu3RmcRX0V4D'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.816 | ERROR    | parser.ebay_checker:login:25 - Account ['AWf6BuElkEeb77Gg@monmail.fr.nf', 'i0eaAGH6qvAfsOfH'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.817 | ERROR    | parser.ebay_checker:login:25 - Account ['WvrGgvxYQfGq7uGC@mymail.infos.st', 'ac5gIy9GmaCDlEaR'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.819 | ERROR    | parser.ebay_checker:login:25 - Account ['aXA5ZteCnX2mh59F@hide.biz.st', 'RgTrbx0nS8gaDDeo'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.820 | ERROR    | parser.ebay_checker:login:25 - Account ['ZPyhNl3HwZmwBbua@mymail.infos.st', '5a0zd4V0lVUBq8g2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.821 | ERROR    | parser.ebay_checker:login:25 - Account ['Mb2RULHvWMxEwmsO@cool.fr.nf', 'TvdYVosRyE1OqcSQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.823 | ERROR    | parser.ebay_checker:login:25 - Account ['1CD94TUYhqn5l9X4@yopmail.com', '5CXTqWHM4K2g91ha'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.824 | ERROR    | parser.ebay_checker:login:25 - Account ['gKt9OaQAeNVhsk4y@yopmail.fr', '4s97YvIgVibq0iFQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.825 | ERROR    | parser.ebay_checker:login:25 - Account ['xfFN9FFUYhgEatPa@hide.biz.st', 'T6LN7Mv4030Lt5AC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.826 | ERROR    | parser.ebay_checker:login:25 - Account ['Mf2duu9QyInDXqWx@monemail.fr.nf', 'SRLRHufTeom3MxRi'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.827 | ERROR    | parser.ebay_checker:login:25 - Account ['PiaQVFvH6QC9ryIF@yopmail.net', '2k9Hwvoux4igVKMo'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.829 | ERROR    | parser.ebay_checker:login:25 - Account ['DwwFWQObg9wg3EEk@yopmail.fr', '5SoNhWZotF7KGkk4'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.830 | ERROR    | parser.ebay_checker:login:25 - Account ['cqdvOGW8KF61yuSN@monemail.fr.nf', 'DUC5eGF30G3QnxH7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.832 | ERROR    | parser.ebay_checker:login:25 - Account ['VMgeuY9FyAF0qfq8@jetable.fr.nf', 'rshQXQ9SfxZiTFH0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.833 | ERROR    | parser.ebay_checker:login:25 - Account ['MGGBRWiEaUfWzV26@mymail.infos.st', 'lWs9k2pzBrCtVySV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.834 | ERROR    | parser.ebay_checker:login:25 - Account ['qgxSnDHqGRx99eQ9@yopmail.com', 'ggFPPvgEZexRlx8g'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.836 | ERROR    | parser.ebay_checker:login:25 - Account ['wRG5oQW9Rc2TI9o6@yopmail.com', 'duItknz8onQwGV0E'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.837 | ERROR    | parser.ebay_checker:login:25 - Account ['Ll0fZzDVmkIKHYyp@jetable.fr.nf', '0fttUwaE4YXBl2lW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.839 | ERROR    | parser.ebay_checker:login:25 - Account ['X7iqdcGOtVaZkvWi@yopmail.fr', '4gHc0QlpMzatgR97'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.840 | ERROR    | parser.ebay_checker:login:25 - Account ['IqSuruZgspSDOwCv@yopmail.net', 'D1TudZMTIdABHG7O'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.841 | ERROR    | parser.ebay_checker:login:25 - Account ['vfdMnsikaztnvbNg@yopmail.fr', '0RzbhmYA77QtMFie'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.842 | ERROR    | parser.ebay_checker:login:25 - Account ['u6Dyn2CSFmF9Mt8y@moncourrier.fr.nf', 'SucEH4zYcT2rGZyf'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.844 | ERROR    | parser.ebay_checker:login:25 - Account ['9re6tqlivGe9ZVRc@yopmail.net', 'dhHdW661hiz9CQ7U'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.845 | ERROR    | parser.ebay_checker:login:25 - Account ['QVzg3gxWoBwHqg5q@monmail.fr.nf', '1fQPbXXDbiL8heEt'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.846 | ERROR    | parser.ebay_checker:login:25 - Account ['uYYcNbcdTwV2LsLb@monemail.fr.nf', 'nZHfMk8GO01qUcpa'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.848 | ERROR    | parser.ebay_checker:login:25 - Account ['zw4kInvSHg31QoZ4@mymail.infos.st', 'xSHhf5tzEVb1fh1T'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.849 | ERROR    | parser.ebay_checker:login:25 - Account ['LR5RWG6XyMkL4qZU@mymail.infos.st', 'tH1qoXBKkdLLULG2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.851 | ERROR    | parser.ebay_checker:login:25 - Account ['WT2B4IXQ8cLh3BrO@cool.fr.nf', 'Z1bOUt9sDOM2dhB5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.852 | ERROR    | parser.ebay_checker:login:25 - Account ['Yh1Hv7U6X7LgAUh4@moncourrier.fr.nf', 'l1THXBrBbBmaZg7l'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.853 | ERROR    | parser.ebay_checker:login:25 - Account ['cM8TgFlmgFdXtFg8@monmail.fr.nf', '5a3riIga8T3ExlOG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.854 | ERROR    | parser.ebay_checker:login:25 - Account ['u56NTPBbHBRg8kHl@monmail.fr.nf', 'ZOGsWDU3rhflge79'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.856 | ERROR    | parser.ebay_checker:login:25 - Account ['GmsMYcQ2t9gA0WPk@cool.fr.nf', 'A3Hx81ZbgTdqHdRB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.857 | ERROR    | parser.ebay_checker:login:25 - Account ['kgrDZATnYKgVs2Bt@mymail.infos.st', 'Kt4uowb6t7mkUZdC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.859 | ERROR    | parser.ebay_checker:login:25 - Account ['IaRO0PzyLHfBY2Mg@monemail.fr.nf', 'gmYcSmhFI9tuElUP'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.860 | ERROR    | parser.ebay_checker:login:25 - Account ['0kuCzCADZSaPPPse@moncourrier.fr.nf', 'pIqntxp8Lngt9Ve5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.862 | ERROR    | parser.ebay_checker:login:25 - Account ['bmQK3gSfG8kzEk5P@mymail.infos.st', 'GC1LoZ9hugvbgE45'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.863 | ERROR    | parser.ebay_checker:login:25 - Account ['qfckHqArFas0eVDF@jetable.fr.nf', 'hGId359ZEwvvZgE5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.865 | ERROR    | parser.ebay_checker:login:25 - Account ['UaxogLs20vfqiQDa@mymail.infos.st', 'E37mKqdL303hhY7n'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.866 | ERROR    | parser.ebay_checker:login:25 - Account ['HnxrGFgRWPrBlAZG@monemail.fr.nf', 'GKQtSaALw8VBDYLS'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.867 | ERROR    | parser.ebay_checker:login:25 - Account ['CE9pvoMtHU3DVARf@yopmail.fr', 'lQriS23GDTG4DqIW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.868 | ERROR    | parser.ebay_checker:login:25 - Account ['ZzBZfnG64SLnmKR2@monmail.fr.nf', '3522NKzGGs0OdT7X'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.869 | ERROR    | parser.ebay_checker:login:25 - Account ['9zRq2YyKqlADZnQ5@jetable.fr.nf', 'Tt7zeo1s8pXbzsQ8'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.871 | ERROR    | parser.ebay_checker:login:25 - Account ['AtAsY0gwZGdgBtmW@yopmail.com', 'vueOHCkMDlLLiVRN'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.872 | ERROR    | parser.ebay_checker:login:25 - Account ['U7YqSzp9sgW2fktn@jetable.fr.nf', 'LtiLk1pe6trkihhB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.873 | ERROR    | parser.ebay_checker:login:25 - Account ['PicqO77xolbIyui2@mymail.infos.st', 'khhfsH3mRwUWlbvQ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.874 | ERROR    | parser.ebay_checker:login:25 - Account ['g4G3lcgZN3ugVyge@monmail.fr.nf', '2f4gTiW48GKdXeC2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.876 | ERROR    | parser.ebay_checker:login:25 - Account ['40pIlT9GmWkIitrI@monemail.fr.nf', 'WRLPI6U5S7D0xu8R'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.877 | ERROR    | parser.ebay_checker:login:25 - Account ['TA82UE7bb41T5crr@mymail.infos.st', 'CDfNXxWADGp7SzaD'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.879 | ERROR    | parser.ebay_checker:login:25 - Account ['z1vSdbBKBgGboBwO@yopmail.net', 'zpegbxC55nvZtVtW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.880 | ERROR    | parser.ebay_checker:login:25 - Account ['VvnB9GrN0oKOAwpY@yopmail.fr', 'wPwOkqpdVau7mPTX'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.881 | ERROR    | parser.ebay_checker:login:25 - Account ['mtfl4ukPnynTMNap@yopmail.com', 'ddPE3oalcag9A3K7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.882 | ERROR    | parser.ebay_checker:login:25 - Account ['Ec8vxkdT30Nyn1KC@mymail.infos.st', '0D4MGpRmvnKPes7o'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.883 | ERROR    | parser.ebay_checker:login:25 - Account ['qDIDfxgn0CQQ0pAf@monmail.fr.nf', 'OuughVxg8RZAr6V5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.885 | ERROR    | parser.ebay_checker:login:25 - Account ['OHfVtPPpa0V79RUs@courriel.fr.nf', 'Ow3uFpykuqmRSHB8'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.886 | ERROR    | parser.ebay_checker:login:25 - Account ['z4B7crICWlYqG4Na@moncourrier.fr.nf', 'f4D6WwzkbTATCWSc'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.887 | ERROR    | parser.ebay_checker:login:25 - Account ['DkpTtaXeWqR1cl4H@monmail.fr.nf', 'tgvgcqdS4ePXU7yf'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.888 | ERROR    | parser.ebay_checker:login:25 - Account ['aQXaFDzHM7N9C5UF@yopmail.com', 'vPOb67Cxkun2fopv'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.889 | ERROR    | parser.ebay_checker:login:25 - Account ['CBRnkeMGLitdyToh@moncourrier.fr.nf', 'iZ0I6tZBttGnlm4t'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.891 | ERROR    | parser.ebay_checker:login:25 - Account ['HYD1Y6QimyxgZkqo@yopmail.com', '1pWLgWqDVVHrL5vE'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.892 | ERROR    | parser.ebay_checker:login:25 - Account ['rlkHwBMU3vsfPmz2@moncourrier.fr.nf', 'nGncfTg3cPhoRX70'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.894 | ERROR    | parser.ebay_checker:login:25 - Account ['pbLqiaDEC5PdiF1Y@cool.fr.nf', 'vuE8kqndNM7epPNX'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.895 | ERROR    | parser.ebay_checker:login:25 - Account ['68p1crPGhmyY9dPG@hide.biz.st', 'C19ly7SeRa7Hq0PE'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.896 | ERROR    | parser.ebay_checker:login:25 - Account ['585aaCfEp5q8AkAn@jetable.fr.nf', 'KacK411LAhegvhwV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.897 | ERROR    | parser.ebay_checker:login:25 - Account ['EWFxYbK0UT1LcBQx@yopmail.fr', 'Um94SE9bp7AK9T4e'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.899 | ERROR    | parser.ebay_checker:login:25 - Account ['zGOgePwQOcIb7qg5@monmail.fr.nf', '56AFWacG5geXKBbs'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.900 | ERROR    | parser.ebay_checker:login:25 - Account ['RhReDMfAohphaWXu@jetable.fr.nf', 'GTbm6S6k2vuZduWu'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.901 | ERROR    | parser.ebay_checker:login:25 - Account ['DIcPGoFWuqLE1hQ5@yopmail.fr', 'dzIPcVFq4wS31CfG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.902 | ERROR    | parser.ebay_checker:login:25 - Account ['ntwigHOtqWFkLzGK@courriel.fr.nf', '4QCmgqbPkOgAFrs7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.903 | ERROR    | parser.ebay_checker:login:25 - Account ['PEDyKb039GmReGXB@jetable.fr.nf', 'k3B8rM9kUGFdo6DK'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.905 | ERROR    | parser.ebay_checker:login:25 - Account ['XUgxukiUpswP7KVZ@cool.fr.nf', 'Utgzd8gRlYQb4nCW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.907 | ERROR    | parser.ebay_checker:login:25 - Account ['3hRW8gNDkypv5G5l@mymail.infos.st', 'xIMaFkOBBpuW8R4D'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.908 | ERROR    | parser.ebay_checker:login:25 - Account ['sbG8CO2h8cNdAriR@cool.fr.nf', 'gF8l6xZYYlriXgce'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.909 | ERROR    | parser.ebay_checker:login:25 - Account ['Ea2lgN87LbBdwsQB@jetable.fr.nf', 'g2OkNeAIu3MkPDgP'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.910 | ERROR    | parser.ebay_checker:login:25 - Account ['6PoZRb24TwGA9Ga5@courriel.fr.nf', 'BFGatoHNOYLedEo0'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.912 | ERROR    | parser.ebay_checker:login:25 - Account ['r5XBODFIUXGZg7Vf@yopmail.fr', '1xpZBT9ETui7XqIU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.913 | ERROR    | parser.ebay_checker:login:25 - Account ['pKq6GbGvIf9OLNp3@yopmail.fr', 'GgwsGiCnI5s2MVCy'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.915 | ERROR    | parser.ebay_checker:login:25 - Account ['UFLfs112WsApycqI@yopmail.com', 'd7BXELTZINHbP2Zs'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.916 | ERROR    | parser.ebay_checker:login:25 - Account ['IHLaGNseeqgDNEVE@hide.biz.st', 'BZIhl3RbrwOvsSBb'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.917 | ERROR    | parser.ebay_checker:login:25 - Account ['7oYwogddo7Umdkg8@moncourrier.fr.nf', 'Rong1mTmsFIXByW9'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.918 | ERROR    | parser.ebay_checker:login:25 - Account ['U0Q6XQEsB5UgIoEN@monemail.fr.nf', 't1v68uem1c4KRVBD'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.920 | ERROR    | parser.ebay_checker:login:25 - Account ['4uhIwM4fXLV4QFMe@hide.biz.st', 'qWmCf4KRsfchQrUN'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.921 | ERROR    | parser.ebay_checker:login:25 - Account ['O9vX5N34lVfr3hR9@cool.fr.nf', 'TGfRk6MMwCeyGVMV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.922 | ERROR    | parser.ebay_checker:login:25 - Account ['qmGYE0kdTmVgkI5B@monmail.fr.nf', 'eNZfaRF4GhlwpRVl'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.924 | ERROR    | parser.ebay_checker:login:25 - Account ['HVKUv3rDNaIigdTM@mymail.infos.st', 'vSZtd6QXaTgI6hXO'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.925 | ERROR    | parser.ebay_checker:login:25 - Account ['O5lGBAb5mohQdN3X@yopmail.com', 'hrkpWfZT1ZVDTOrh'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.926 | ERROR    | parser.ebay_checker:login:25 - Account ['vryFYbpD5CGGbIdb@courriel.fr.nf', 'WT5daY56dyg5SoBV'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.928 | ERROR    | parser.ebay_checker:login:25 - Account ['Ho4up7Yt1Idu6bn9@mymail.infos.st', 'oH2z0ubftNXOsYBK'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.929 | ERROR    | parser.ebay_checker:login:25 - Account ['n2aDClkkG0qTsOSE@yopmail.net', 'LQlaTbVuAt5odd2V'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.930 | ERROR    | parser.ebay_checker:login:25 - Account ['le62id8GIAbxIGBn@moncourrier.fr.nf', 'VunRogm7s7U7L4a5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.931 | ERROR    | parser.ebay_checker:login:25 - Account ['Rs03kBEwwtvMG5Uo@yopmail.net', 'MGxuOrtrh9Qtl8Z6'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.932 | ERROR    | parser.ebay_checker:login:25 - Account ['fpKeIzxaRphIx8gz@yopmail.com', 'ycIL5AoT4ui91auF'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.934 | ERROR    | parser.ebay_checker:login:25 - Account ['GT3gegvemBAxSFhP@monmail.fr.nf', 'N2v0zzbtu0c0SkOM'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.935 | ERROR    | parser.ebay_checker:login:25 - Account ['GPduGMSha5AZiOzk@yopmail.fr', 'Mqzvvp7VRhwKZIZt'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.936 | ERROR    | parser.ebay_checker:login:25 - Account ['BLRGMiFL0CYUs9vu@mymail.infos.st', 'oOMdLqNnFYBpb1Wl'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.937 | ERROR    | parser.ebay_checker:login:25 - Account ['fuua1oq3wYrfWF9X@jetable.fr.nf', 'Bm3y73H1bIwgy9WI'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.938 | ERROR    | parser.ebay_checker:login:25 - Account ['79ainHGS0A9bVi6G@yopmail.com', '6QfTSbgsnzQltZGT'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.940 | ERROR    | parser.ebay_checker:login:25 - Account ['yb8KW2gmzEt8yOal@yopmail.net', 'WDLUhBDH7d1MAGLy'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.941 | ERROR    | parser.ebay_checker:login:25 - Account ['nsHu6hb6XM9XCAA9@yopmail.net', 'YXRkufmNI93gATl8'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.943 | ERROR    | parser.ebay_checker:login:25 - Account ['AtDRpgr1cZSFogA7@yopmail.fr', 'egbtcMbRRtzW9tGg'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.944 | ERROR    | parser.ebay_checker:login:25 - Account ['Eq0Eqv9zseY29FTp@yopmail.net', 'GMZX0v9f5MxYB2Kb'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.945 | ERROR    | parser.ebay_checker:login:25 - Account ['nDEhMGuBl5VFKqSY@mymail.infos.st', 'PW7735GtOkXQSD2e'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.947 | ERROR    | parser.ebay_checker:login:25 - Account ['9R19nX6xpGywnaQU@monemail.fr.nf', 'GtLBoIVmA77RQG6z'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.948 | ERROR    | parser.ebay_checker:login:25 - Account ['HEvxz0RKGTyL46eD@monmail.fr.nf', 'f4eW74kiQybZ02h4'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.949 | ERROR    | parser.ebay_checker:login:25 - Account ['BGLYzseuLQCFQQBE@monemail.fr.nf', 'LE0GWGS2PoRTMMEh'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.950 | ERROR    | parser.ebay_checker:login:25 - Account ['icLGPXi2H05gqblY@yopmail.fr', '5Zosy8S4mf6IyuFx'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.952 | ERROR    | parser.ebay_checker:login:25 - Account ['tCHfXmtGGhFsslpk@monemail.fr.nf', 'yIg9o9l9qucAUNxc'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.953 | ERROR    | parser.ebay_checker:login:25 - Account ['oFGCLWGNSHhSHnNh@yopmail.com', 'GevkK2RnSGtEHqtP'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.954 | ERROR    | parser.ebay_checker:login:25 - Account ['dk3gSGSaao1IvaUY@courriel.fr.nf', 'KrxEwFp9cn3KU239'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.956 | ERROR    | parser.ebay_checker:login:25 - Account ['rOtbmctuHLlfe8mZ@courriel.fr.nf', '8gGgAhuDCtAwLH8r'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.957 | ERROR    | parser.ebay_checker:login:25 - Account ['wxQ8wYDhop1op6mf@cool.fr.nf', 'wpGPVfCspPVGDgAk'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.958 | ERROR    | parser.ebay_checker:login:25 - Account ['cBo9rPUtBLUOSR0k@monemail.fr.nf', '7Munxa3HoPfPGNtB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.959 | ERROR    | parser.ebay_checker:login:25 - Account ['qYnXNY6a5LtSuYM1@hide.biz.st', 'ILckmrgzNOrgg3uH'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.961 | ERROR    | parser.ebay_checker:login:25 - Account ['4IfL2UXWgAUwqEaK@jetable.fr.nf', 'LSPGuXS4iVv1rq5g'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.962 | ERROR    | parser.ebay_checker:login:25 - Account ['s8myt59cInurcd9d@hide.biz.st', 'ZtswdwzQpbkpc8OP'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.963 | ERROR    | parser.ebay_checker:login:25 - Account ['KEyXGVvglDSpgOch@yopmail.fr', '9yGEFfovmz3sZmmU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.964 | ERROR    | parser.ebay_checker:login:25 - Account ['cuOiPVU75uWq19Ax@hide.biz.st', 'iTWmruh3D3pTC0Pd'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.965 | ERROR    | parser.ebay_checker:login:25 - Account ['YLhV6vOds2Zbk9Sz@yopmail.net', '0eQ5Os44pySoC1b9'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.966 | ERROR    | parser.ebay_checker:login:25 - Account ['ChCae3Br7Hg9gvtd@yopmail.fr', 'cx98iCBdrgYMosy2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.968 | ERROR    | parser.ebay_checker:login:25 - Account ['nf48tu9mapTN3Gu9@yopmail.net', 'nMu76xUEaMIFNErK'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.970 | ERROR    | parser.ebay_checker:login:25 - Account ['r99mAMBzuYggzUYy@courriel.fr.nf', 'E6ceGf3LgYspY9LG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.971 | ERROR    | parser.ebay_checker:login:25 - Account ['WsvNngNSSIrH7sKC@moncourrier.fr.nf', 'tLx5NhisxV4Q8Pw2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.972 | ERROR    | parser.ebay_checker:login:25 - Account ['7vwAvW9yyI7qP1Wa@mymail.infos.st', 'rXIm44FkgUvnrN53'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.973 | ERROR    | parser.ebay_checker:login:25 - Account ['GH2fcnGnOfaE70Kr@yopmail.com', 'OdEQTrPFxoe6o9ai'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.974 | ERROR    | parser.ebay_checker:login:25 - Account ['CwGghG5ldlMdI8W4@hide.biz.st', 'fGffHgAe1tHmSFGU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.976 | ERROR    | parser.ebay_checker:login:25 - Account ['CR8Q047Y68KAtwho@yopmail.net', 'NCfVhsZx7gYtuYVg'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.977 | ERROR    | parser.ebay_checker:login:25 - Account ['5erQvxR5OnBrF4z3@moncourrier.fr.nf', 'FlCqLluOHMG1b68e'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.978 | ERROR    | parser.ebay_checker:login:25 - Account ['GFnRuQ66K728OioH@hide.biz.st', 'aNIO1iy0AzSbIHTZ'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.979 | ERROR    | parser.ebay_checker:login:25 - Account ['ia23sHo4NO3IFxz4@courriel.fr.nf', '8rAyPwUxd74haM8d'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.980 | ERROR    | parser.ebay_checker:login:25 - Account ['bLpsHle75csFU6Gh@yopmail.com', 'SASMutpYDTAPhCSd'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.982 | ERROR    | parser.ebay_checker:login:25 - Account ['BQ7ZP7v41tPkpcRM@yopmail.com', 'vWW8XgpgXP5W871c'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.983 | ERROR    | parser.ebay_checker:login:25 - Account ['4IlhRlhLK1hhiEfZ@yopmail.com', 'R4XyWOCKo6QG6sxW'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.985 | ERROR    | parser.ebay_checker:login:25 - Account ['tqZCTQhLHaqD5UYv@yopmail.fr', 'ZiGmy63BZ3ECx6vG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.986 | ERROR    | parser.ebay_checker:login:25 - Account ['T933ITS0kgNcf8Rq@monemail.fr.nf', 'dg6b9DCBtUPETvER'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.987 | ERROR    | parser.ebay_checker:login:25 - Account ['ObEn2R5KaRMbFtoN@jetable.fr.nf', 'Emvtf6AD26PAB2yi'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.988 | ERROR    | parser.ebay_checker:login:25 - Account ['QGI3CkNWVeaiiYK2@hide.biz.st', 'x8afQ54QGwUaXBLw'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.990 | ERROR    | parser.ebay_checker:login:25 - Account ['kp8BcAHbmB93pTCA@yopmail.fr', 'Fkx2Y50VLkqNbfny'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.991 | ERROR    | parser.ebay_checker:login:25 - Account ['ck3zcIrMMpEQE7qD@moncourrier.fr.nf', 'e8Yvq7VXxpXoGbQL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.992 | ERROR    | parser.ebay_checker:login:25 - Account ['B2qlhgkQyiTUEhWn@yopmail.net', 'mC0ytUR6nlfTLzEG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.993 | ERROR    | parser.ebay_checker:login:25 - Account ['GXXFsqTtxMtLldxn@moncourrier.fr.nf', 'SuZKyUzoTFWNPLvs'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.994 | ERROR    | parser.ebay_checker:login:25 - Account ['ZNDc6myG0Qqly7iX@monmail.fr.nf', 'gy2L6TfwUXTyn1HC'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.996 | ERROR    | parser.ebay_checker:login:25 - Account ['AluQnZ3lNLgbax52@monemail.fr.nf', 'WzvU5CSURzKQoZdk'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.997 | ERROR    | parser.ebay_checker:login:25 - Account ['ougXg9I2HX0Yxgn1@courriel.fr.nf', 'McqoDIi7FQriGHqi'] is invalid. Wrote into bad account file
+2023-01-24 20:39:49.998 | ERROR    | parser.ebay_checker:login:25 - Account ['Sq6sIFY4TWKHfyou@cool.fr.nf', '52lCSfPrO2mR93S2'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.000 | ERROR    | parser.ebay_checker:login:25 - Account ['SLgGaHclBoBmadqC@yopmail.net', 'cpxc2XVpl7uY6SS5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.001 | ERROR    | parser.ebay_checker:login:25 - Account ['oQspmkHx3UH6wnpg@cool.fr.nf', 'vLKxcNhI9GXOlWHy'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.003 | ERROR    | parser.ebay_checker:login:25 - Account ['fQ91bTXk2Mx6pPc2@mymail.infos.st', 'FCfgaxSMbqBvk9pO'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.004 | ERROR    | parser.ebay_checker:login:25 - Account ['asuGm5TMoQYLqgKG@cool.fr.nf', 'g3TYtPFvp7Dyu4xL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.005 | ERROR    | parser.ebay_checker:login:25 - Account ['xtEHvPWUfMobBpFA@yopmail.com', 'Hya9o8AM18KL5Pn5'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.007 | ERROR    | parser.ebay_checker:login:25 - Account ['4Qe8IqZKG4Whlxtg@jetable.fr.nf', 'S97Dbw0i1W7XQcfl'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.008 | ERROR    | parser.ebay_checker:login:25 - Account ['ZYBBSKDfPgix4B6y@jetable.fr.nf', 'rEiwRStAI3fLVYRB'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.009 | ERROR    | parser.ebay_checker:login:25 - Account ['YxTMS9h1fTo0gGOn@courriel.fr.nf', 'EgFUTZsfrIg2vahN'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.011 | ERROR    | parser.ebay_checker:login:25 - Account ['Gw6GYS0eMiEBKHNR@hide.biz.st', 'UDG4ORVGiznkdegG'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.012 | ERROR    | parser.ebay_checker:login:25 - Account ['oHncGLSUkuAFgxNk@monemail.fr.nf', '9Mum6Hx48qe5NMl7'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.013 | ERROR    | parser.ebay_checker:login:25 - Account ['VXGLpvrG7Eq0rY2y@yopmail.fr', 'ZQsUkIS8b4RDNK1E'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.014 | ERROR    | parser.ebay_checker:login:25 - Account ['It9EZwwFDhx1xUXx@courriel.fr.nf', 'r8L3N817q7526NcD'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.015 | ERROR    | parser.ebay_checker:login:25 - Account ['BN6VVGlyU8WDyoPY@monmail.fr.nf', 'wGciwHyH5kBF4AMx'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.017 | ERROR    | parser.ebay_checker:login:25 - Account ['XC0mvTtrq5koK9xl@moncourrier.fr.nf', 'Q6gCxXGvpb7UGFIM'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.019 | ERROR    | parser.ebay_checker:login:25 - Account ['00wncXmWpGviTco9@jetable.fr.nf', '3Ygia7LlNlqIpddU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.020 | ERROR    | parser.ebay_checker:login:25 - Account ['dz0Q14YiH25i7AtC@monmail.fr.nf', 'X6KlmQfE8ApHZfBM'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.021 | ERROR    | parser.ebay_checker:login:25 - Account ['SgWquLlQGhW2UC1t@cool.fr.nf', 'y9OAQ7oyBWSALFkY'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.022 | ERROR    | parser.ebay_checker:login:25 - Account ['8dCpaGz3MMCn6rWG@monemail.fr.nf', 'ASQlyFdDwMM812tX'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.024 | ERROR    | parser.ebay_checker:login:25 - Account ['1hhEcYRnzcutvUOg@yopmail.com', 'L8w5gVOtbEuG4WFh'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.026 | ERROR    | parser.ebay_checker:login:25 - Account ['fPrpPRUaV1FgoKqB@yopmail.fr', 'MgGFOF2RX5D8VBV1'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.027 | ERROR    | parser.ebay_checker:login:25 - Account ['eIXrtMgz4zgskDUL@mymail.infos.st', 'H3OwAoHkbBRW3XZg'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.028 | ERROR    | parser.ebay_checker:login:25 - Account ['V0221IkcdWFwmay5@yopmail.com', 'bgPYWNyChSOGqEYR'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.029 | ERROR    | parser.ebay_checker:login:25 - Account ['hKGDAi1PiNwmvNmm@moncourrier.fr.nf', '43sxGG1tg7n0twSt'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.031 | ERROR    | parser.ebay_checker:login:25 - Account ['d5aHZ19Ep8AMEBnM@hide.biz.st', 'kxfztfuH6SH1CZxu'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.032 | ERROR    | parser.ebay_checker:login:25 - Account ['6NtuieCSz3pi2CmI@courriel.fr.nf', 'OGTRKu1UmI8OifIL'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.034 | ERROR    | parser.ebay_checker:login:25 - Account ['acLk66OzbFURDgCu@cool.fr.nf', 'ghKxQpdWzLs2B69z'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.035 | ERROR    | parser.ebay_checker:login:25 - Account ['q8o480IueLnhBOdd@cool.fr.nf', '3MFa6ef0g5tYSSQr'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.036 | ERROR    | parser.ebay_checker:login:25 - Account ['K6OwC3M97DYZwcdT@yopmail.com', 'mWuxfVTRogs1HlBo'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.038 | ERROR    | parser.ebay_checker:login:25 - Account ['oS3d3Pf0SaHdIaXp@cool.fr.nf', '3tRZikbua6KZZrpU'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.040 | ERROR    | parser.ebay_checker:login:25 - Account ['N9WxpALminzO4Moz@jetable.fr.nf', 'ZGMO2GL4B0WhDECF'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.041 | ERROR    | parser.ebay_checker:login:25 - Account ['lLhrCxl4MerCBq42@monemail.fr.nf', 'M3OUXO4XBuQuWlbl'] is invalid. Wrote into bad account file
+2023-01-24 20:39:50.042 | WARNING  | __main__:<module>:51 - Parser shutdown
+2023-01-24 20:51:38.894 | INFO     | __main__:<module>:50 - Parser started
+2023-01-24 20:51:38.896 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:51:41.223 | INFO     | parser.ebay_checker:login:34 - Next step
+2023-01-24 20:55:58.489 | INFO     | __main__:<module>:50 - Parser started
+2023-01-24 20:55:58.491 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 20:56:08.661 | INFO     | parser.ebay_checker:login:37 - Next step
+2023-01-24 21:06:06.978 | INFO     | __main__:<module>:50 - Parser started
+2023-01-24 21:06:06.979 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 21:06:08.720 | INFO     | parser.ebay_checker:login:37 - Next step
+2023-01-24 21:08:04.005 | INFO     | __main__:<module>:50 - Parser started
+2023-01-24 21:08:04.007 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 21:08:58.324 | INFO     | __main__:<module>:50 - Parser started
+2023-01-24 21:08:58.326 | INFO     | parser.account:getAccounts:11 - read new accounts (300 pcs)
+2023-01-24 21:09:00.417 | ERROR    | parser.ebay_checker:login:32 - Account ['2xYGM7tIcBycB9w0@yopmail.net', 'CsQ9T65XQE43hKVR'] is invalid. Wrote into bad account file
+2023-01-24 21:09:01.739 | ERROR    | parser.ebay_checker:login:32 - Account ['XVkZAOMCpL04Go4A@moncourrier.fr.nf', 'oPav7A9xWutLfh6N'] is invalid. Wrote into bad account file
+2023-01-24 21:09:03.659 | ERROR    | parser.ebay_checker:login:32 - Account ['t9z6ySpcAuSeZTPM@courriel.fr.nf', '7GrZk2qU3eEu7eHi'] is invalid. Wrote into bad account file
+2023-01-24 21:09:05.066 | ERROR    | parser.ebay_checker:login:32 - Account ['24WSe5PlDAMmuu3l@mymail.infos.st', 'ifIm18tenGRYFBW5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:06.279 | ERROR    | parser.ebay_checker:login:32 - Account ['dn6GcZb0xsMcxxOk@yopmail.fr', 'xple5ZRRk8N4nEWe'] is invalid. Wrote into bad account file
+2023-01-24 21:09:07.280 | ERROR    | parser.ebay_checker:login:32 - Account ['CBrEI0k7O5FrLF5w@yopmail.net', 'N9zH10Bo96Bggu2k'] is invalid. Wrote into bad account file
+2023-01-24 21:09:08.172 | ERROR    | parser.ebay_checker:login:32 - Account ['ksq6pd5tNOkANMZY@monmail.fr.nf', 'epUp8Pk4C829wTlB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:09.089 | ERROR    | parser.ebay_checker:login:32 - Account ['50lz2F3XIgrWI4zR@monmail.fr.nf', 'vsyWGmWL8RMVKTq7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:09.919 | ERROR    | parser.ebay_checker:login:32 - Account ['ldfMxvvXnxy1cuCC@monmail.fr.nf', '1BG9IG3T3xPlETQX'] is invalid. Wrote into bad account file
+2023-01-24 21:09:11.050 | ERROR    | parser.ebay_checker:login:32 - Account ['Y90GZSle0cq2ceZu@yopmail.com', 'ktIL6CbgDoFvEPO9'] is invalid. Wrote into bad account file
+2023-01-24 21:09:11.848 | ERROR    | parser.ebay_checker:login:32 - Account ['gOWsbd8WH8OgQkBn@yopmail.net', '7LYAN7K7b6ef6h85'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.049 | ERROR    | parser.ebay_checker:login:32 - Account ['0pghAQfULo4coamm@courriel.fr.nf', 'XmQ5mWB7StMXq1BU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.051 | ERROR    | parser.ebay_checker:login:32 - Account ['64rMSqODL6GiTFGR@moncourrier.fr.nf', 'SPhrsACG8i67x80c'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.055 | ERROR    | parser.ebay_checker:login:32 - Account ['61g28fDwzyVhUbGn@yopmail.com', 'EKUZ6HPseZ5rftGF'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.059 | ERROR    | parser.ebay_checker:login:32 - Account ['0otUvqd73r1T2G3B@cool.fr.nf', 'cSN60Fo4Oc1MbSSy'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.096 | ERROR    | parser.ebay_checker:login:32 - Account ['ZgFg5eO0IhYTcORk@mymail.infos.st', '8zEznqhanmL4HfnR'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.100 | ERROR    | parser.ebay_checker:login:32 - Account ['KICwgOY0A7mGKAbm@monemail.fr.nf', 'Vvf78P12YDKmvpRL'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.103 | ERROR    | parser.ebay_checker:login:32 - Account ['t0rb3YDo4nRPDVxW@courriel.fr.nf', 'GF0WU5GbAXtXuPTd'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.105 | ERROR    | parser.ebay_checker:login:32 - Account ['97F9s9H84gaOgeBr@cool.fr.nf', 'xPgllG8pEKfqwMKx'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.107 | ERROR    | parser.ebay_checker:login:32 - Account ['s7lHml7y89i4VmxO@yopmail.fr', 't1ox27m9VBp0GKzk'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.110 | ERROR    | parser.ebay_checker:login:32 - Account ['78ITFdnTrKS5hXIZ@mymail.infos.st', 'ERqaxQZZX1cgVgVV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.112 | ERROR    | parser.ebay_checker:login:32 - Account ['ro6PGMR18ndrhxys@hide.biz.st', 'eGNqakO5BI3KkFL0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.114 | ERROR    | parser.ebay_checker:login:32 - Account ['GNAIhuL15mrVCuVX@jetable.fr.nf', 'QGbg9uuBX8e9ZLHI'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.117 | ERROR    | parser.ebay_checker:login:32 - Account ['YzD0QDm2dW3NF8xO@hide.biz.st', 'd95lCxqhgqvilXat'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.120 | ERROR    | parser.ebay_checker:login:32 - Account ['wlOrBzK4bbNLc4GT@courriel.fr.nf', 'yIWxivBWYCMQZaS5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.121 | ERROR    | parser.ebay_checker:login:32 - Account ['yiIQgAghhGmlcixn@monmail.fr.nf', 'VkcWaMv6ByvGlSK0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.123 | ERROR    | parser.ebay_checker:login:32 - Account ['3OZ48YdCQarXvBwm@monmail.fr.nf', '7GFeC1KA9z0Fgv8E'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.126 | ERROR    | parser.ebay_checker:login:32 - Account ['ku2HaLarNIhB5K2H@yopmail.fr', 'MKSEOHoDFBCW3Sta'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.127 | ERROR    | parser.ebay_checker:login:32 - Account ['xqXU44zDPGQ1S4Pg@mymail.infos.st', 'Q4G7UqvbzWNFqr5I'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.130 | ERROR    | parser.ebay_checker:login:32 - Account ['nkuo6wNcG5pfBC4l@monmail.fr.nf', 'w13Fg6oew1zQ6LsZ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.132 | ERROR    | parser.ebay_checker:login:32 - Account ['DcU0AHV3NO4uAkQ7@courriel.fr.nf', 'HW2PEdFwogc2Ge6z'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.134 | ERROR    | parser.ebay_checker:login:32 - Account ['nNg0NfyHVLPDB5zr@hide.biz.st', 'ngQ6xwybfGgm2p9E'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.135 | ERROR    | parser.ebay_checker:login:32 - Account ['6k3yYRwApzUGLxAQ@yopmail.fr', '2ToPuqoBeFgN8UrG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.137 | ERROR    | parser.ebay_checker:login:32 - Account ['tgdXKpXc0e9CX0vE@cool.fr.nf', 'CHqHkRpu8Z8xvkdH'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.139 | ERROR    | parser.ebay_checker:login:32 - Account ['b3PMYVhZseGDGIUx@yopmail.net', '48agU7grc7SgbSWe'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.141 | ERROR    | parser.ebay_checker:login:32 - Account ['YyRf52RRl7Gw9Fgw@yopmail.net', '1sdDKGwqveZIMyrC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.142 | ERROR    | parser.ebay_checker:login:32 - Account ['ks8Mzolzs6TCmWyg@yopmail.net', 'YL7pmZV3AGq712Gx'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.145 | ERROR    | parser.ebay_checker:login:32 - Account ['m39F6NZLGi0EXE9U@yopmail.com', '6Fp2zWghmZx0LaCO'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.147 | ERROR    | parser.ebay_checker:login:32 - Account ['Lg4TQEglSkLtYmD7@yopmail.fr', 'K8tQHBWm6OvTNIGY'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.150 | ERROR    | parser.ebay_checker:login:32 - Account ['bGAr46gpYgi7l7qM@jetable.fr.nf', '5IgEQ83pz3GNmoMH'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.152 | ERROR    | parser.ebay_checker:login:32 - Account ['UOAiSfSwpWurrrnh@hide.biz.st', 'SXLwH14roR9oKqR6'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.154 | ERROR    | parser.ebay_checker:login:32 - Account ['U5TkMOryDOGbHHlG@cool.fr.nf', 'GVXoenm8TzdFKer2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.156 | ERROR    | parser.ebay_checker:login:32 - Account ['4IrXP9iqirpiZ8wb@moncourrier.fr.nf', '9ou3KuBG76LnBBQo'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.158 | ERROR    | parser.ebay_checker:login:32 - Account ['cFUY9710lKT9Diuc@courriel.fr.nf', 'MPHwkLEvE3dVsl3o'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.161 | ERROR    | parser.ebay_checker:login:32 - Account ['po96pnQutRIK3IZZ@mymail.infos.st', 'veCrND26HhgkldNS'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.163 | ERROR    | parser.ebay_checker:login:32 - Account ['5QVM2pwLAdNhM8Y5@monmail.fr.nf', 'iGETtIi7Ia4dckME'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.166 | ERROR    | parser.ebay_checker:login:32 - Account ['QIgstA0H3dbxDWe2@yopmail.net', 'a3tcbBYCLgdoR09Q'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.168 | ERROR    | parser.ebay_checker:login:32 - Account ['oMFDRwW6GPsvdGvG@jetable.fr.nf', 'sHNXrRimlSi9pyR6'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.170 | ERROR    | parser.ebay_checker:login:32 - Account ['KFsdGH3tlagdQScq@cool.fr.nf', 'iKm3o0P5X5AtI5bY'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.172 | ERROR    | parser.ebay_checker:login:32 - Account ['mmfNKmLS3eeQ0a2M@yopmail.net', 'vLO9ZXkFqb0Rz9hT'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.174 | ERROR    | parser.ebay_checker:login:32 - Account ['mw8bGHqBtUQ6loEl@yopmail.net', 'WZDGtyah89AOKUrC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.176 | ERROR    | parser.ebay_checker:login:32 - Account ['34rfbhCc5RaEibxv@yopmail.net', 'GA5DNUAiDAAh66wT'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.178 | ERROR    | parser.ebay_checker:login:32 - Account ['59RlSyF9gtq88Vdd@yopmail.fr', 'vpdgPTsEm2TGW8Ln'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.180 | ERROR    | parser.ebay_checker:login:32 - Account ['cs2rBLUwz4Ib2At2@yopmail.fr', 'OEKacamglOISClh0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.182 | ERROR    | parser.ebay_checker:login:32 - Account ['mUxM0Ym7Bebtptg4@yopmail.com', '2BGIir3waLfDpp5E'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.183 | ERROR    | parser.ebay_checker:login:32 - Account ['lWcNIypGHYWkZLfB@mymail.infos.st', 'ytz5CQmkEGRlRiuG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.185 | ERROR    | parser.ebay_checker:login:32 - Account ['kkw5axgpTguaDsH2@mymail.infos.st', 'CWgmU6Empv6iA6oI'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.187 | ERROR    | parser.ebay_checker:login:32 - Account ['srKCgnGuMh4vPmpg@yopmail.com', 'QMk4G401K91aXv1r'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.189 | ERROR    | parser.ebay_checker:login:32 - Account ['yh46srRQzqeWECGp@monemail.fr.nf', 'GoZ4o80iLCfmrqgi'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.190 | ERROR    | parser.ebay_checker:login:32 - Account ['kfwDMgws2B2GFbHC@courriel.fr.nf', 'TlAPoWTBoSyB4lK0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.192 | ERROR    | parser.ebay_checker:login:32 - Account ['qno43Ht74KTgxwCU@monmail.fr.nf', '3XFLWrNGANFhadUK'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.194 | ERROR    | parser.ebay_checker:login:32 - Account ['pvPAwD5MsLSrpvWc@mymail.infos.st', 'pOKdXvwrD6zv8GOe'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.196 | ERROR    | parser.ebay_checker:login:32 - Account ['XVWagsNaxgfor7RC@yopmail.fr', 'zGooZkmmOZcBM3PL'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.199 | ERROR    | parser.ebay_checker:login:32 - Account ['TDolEN2MqICu6WXI@yopmail.net', 'F2tEzZtYvB9hccOV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.201 | ERROR    | parser.ebay_checker:login:32 - Account ['0tfUrcYLGpCiWcre@yopmail.fr', 'qfqVCbNGU2222Pp7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.204 | ERROR    | parser.ebay_checker:login:32 - Account ['bW8dzkd213XPbg86@monmail.fr.nf', 'HZMgy6uLC9WKczV7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.206 | ERROR    | parser.ebay_checker:login:32 - Account ['7saDOCgwVSOvNHS7@jetable.fr.nf', 'teG1E94tZba7MIQQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.208 | ERROR    | parser.ebay_checker:login:32 - Account ['rGE3MCbYCBb7koHd@cool.fr.nf', 'XASaoHo5YK1gWeG3'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.210 | ERROR    | parser.ebay_checker:login:32 - Account ['RZgpSOPkuFg4Gh0F@yopmail.com', 'RsUOFoKeBzDdgx6U'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.211 | ERROR    | parser.ebay_checker:login:32 - Account ['egGPKn27VTUbcunp@yopmail.net', '9SFn3w2kGowBp4r4'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.213 | ERROR    | parser.ebay_checker:login:32 - Account ['zzqSKG02DrM8rbmQ@yopmail.fr', 'gqkFibGV7g54shro'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.215 | ERROR    | parser.ebay_checker:login:32 - Account ['8SrVTynQxZwIHg5U@jetable.fr.nf', 'sYZgcRKhqXBvEHod'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.216 | ERROR    | parser.ebay_checker:login:32 - Account ['CY5sSmWx1TYMA60O@monmail.fr.nf', '3UzL4ddmbi3BHrbY'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.218 | ERROR    | parser.ebay_checker:login:32 - Account ['zvNXnzkBSBfE6HGt@yopmail.net', 'UITvPKYGq9763RFf'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.220 | ERROR    | parser.ebay_checker:login:32 - Account ['MdbKrLt1GMlCD3zF@cool.fr.nf', 'rlNvcTuHOvbqcY5i'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.222 | ERROR    | parser.ebay_checker:login:32 - Account ['80UtFNqGDqfmbOnM@jetable.fr.nf', 'vyPyhRtBNLticzB3'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.224 | ERROR    | parser.ebay_checker:login:32 - Account ['7E67swZMxfCYq1TL@yopmail.net', '4p2O0lvbQmwsQiKw'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.225 | ERROR    | parser.ebay_checker:login:32 - Account ['gPypUNqIRwVRTi36@yopmail.fr', '8ytngwKgmQFHOsWM'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.227 | ERROR    | parser.ebay_checker:login:32 - Account ['v8c5ZRp3b30Vou4r@yopmail.net', 'HKhaZmhwOoOSMNLr'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.229 | ERROR    | parser.ebay_checker:login:32 - Account ['OwRkD0YA0eQoOkGO@courriel.fr.nf', 'iPIPhwzB0Sp1K2QC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.231 | ERROR    | parser.ebay_checker:login:32 - Account ['Po5Q5YUlaW1pbagN@cool.fr.nf', 'ozURPMibZ3mBXZoZ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.232 | ERROR    | parser.ebay_checker:login:32 - Account ['qCqdWwAkQS2HsHbS@yopmail.net', 'Fg1hGov9A6sayUVn'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.234 | ERROR    | parser.ebay_checker:login:32 - Account ['EO40bx7sbmrkmetK@monemail.fr.nf', 'P7qZrcr7ITpeeLDs'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.236 | ERROR    | parser.ebay_checker:login:32 - Account ['7A96PgAifOVQWykU@hide.biz.st', '06apzmxateoFtKlM'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.238 | ERROR    | parser.ebay_checker:login:32 - Account ['YxIV14W2L9Gy5nRv@moncourrier.fr.nf', 'FFfwb85CgLLrprsH'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.239 | ERROR    | parser.ebay_checker:login:32 - Account ['swd1z3obMUFMQRg7@yopmail.fr', '2tcodNcSDmiGrIAV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.241 | ERROR    | parser.ebay_checker:login:32 - Account ['xcY6L0acVVYAg0oL@yopmail.net', 'neQLCZg1QWGT8WTm'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.243 | ERROR    | parser.ebay_checker:login:32 - Account ['QS60hm6qt1cipADu@moncourrier.fr.nf', 'ciGHr2hNDYWMA1hm'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.245 | ERROR    | parser.ebay_checker:login:32 - Account ['RhnoqDfBGVD2Ck5M@moncourrier.fr.nf', 'kf5NTcRGV9VuOf2W'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.246 | ERROR    | parser.ebay_checker:login:32 - Account ['F99agyKvG6caUmiB@jetable.fr.nf', 'gZALc76oDNAFhaT4'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.248 | ERROR    | parser.ebay_checker:login:32 - Account ['gge9pSHIwUGN5bML@yopmail.fr', '6SEvVfuz56YM6CyQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.250 | ERROR    | parser.ebay_checker:login:32 - Account ['PnsZFurtXY5UU7RO@monemail.fr.nf', '6SguHmERBrNNrYps'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.252 | ERROR    | parser.ebay_checker:login:32 - Account ['OXhYCVdhqxGssgEN@yopmail.com', 'fIZ5f8NTXIFhFsao'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.254 | ERROR    | parser.ebay_checker:login:32 - Account ['X7y9qzdFmGGtv1MP@cool.fr.nf', 'ap9RFqI7DSCvehdO'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.256 | ERROR    | parser.ebay_checker:login:32 - Account ['eUAI8mO3tVA97TDD@yopmail.com', 'DqhggLdldwNyodxA'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.258 | ERROR    | parser.ebay_checker:login:32 - Account ['aSTKzvSn6wDr7zg0@monmail.fr.nf', 'wwAQSSyUX6QcvIdf'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.259 | ERROR    | parser.ebay_checker:login:32 - Account ['ng5YsKZdVYWO9OOA@mymail.infos.st', 'NgFozY8mIp8qRtI2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.261 | ERROR    | parser.ebay_checker:login:32 - Account ['zLYMEVYHk0GTHKGa@yopmail.com', '9wrGdS5BaIhRH5mp'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.263 | ERROR    | parser.ebay_checker:login:32 - Account ['dZWRbUILCfW6ewMQ@mymail.infos.st', 'PgFskeA8O8w4L02z'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.264 | ERROR    | parser.ebay_checker:login:32 - Account ['XvR9AB10iKce3Nm3@monemail.fr.nf', '9LIiLyXtgFpOiuRg'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.266 | ERROR    | parser.ebay_checker:login:32 - Account ['MGNID6HX6iukUn5S@yopmail.com', 'Mca7xVzgLnfRgK0g'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.268 | ERROR    | parser.ebay_checker:login:32 - Account ['iYOYyGapAwo4N3Wo@courriel.fr.nf', 'vcB1t7PCQQ38FNi4'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.271 | ERROR    | parser.ebay_checker:login:32 - Account ['3Y60ZYNxXR9zSPep@hide.biz.st', 'uGZO3NfcvbWb0L1w'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.272 | ERROR    | parser.ebay_checker:login:32 - Account ['QIUVgIowFIUAmzns@yopmail.fr', 'e3aeGdOXcYTml377'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.274 | ERROR    | parser.ebay_checker:login:32 - Account ['de6qTtbd4LsigTFf@jetable.fr.nf', 'xrYPXLgFamRg0Yn9'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.277 | ERROR    | parser.ebay_checker:login:32 - Account ['FcAGHLZ5XPN1Wz8B@monemail.fr.nf', 'V4ItB6h8gUWdbgpI'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.278 | ERROR    | parser.ebay_checker:login:32 - Account ['yK5IaoU2Z0Vp8r8n@courriel.fr.nf', '1vsAFFXnT7cKYcrI'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.280 | ERROR    | parser.ebay_checker:login:32 - Account ['sb1IgpS1QlN5KCzF@yopmail.com', '5IqRaZqliwrNRY5h'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.281 | ERROR    | parser.ebay_checker:login:32 - Account ['VWlFIAqOMZnvq3FA@moncourrier.fr.nf', 'fFkW64MgTeDxW8Re'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.284 | ERROR    | parser.ebay_checker:login:32 - Account ['SMnMGAvRt0mZD8pg@yopmail.fr', 'HZ5sZUhxOHKenYFK'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.286 | ERROR    | parser.ebay_checker:login:32 - Account ['dt6qbKd7NMn9Kbpo@mymail.infos.st', 'QiZXHKA55IbYCw8B'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.287 | ERROR    | parser.ebay_checker:login:32 - Account ['8opKuawbnygGtiRM@moncourrier.fr.nf', 'GWXLozehER4oGawr'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.289 | ERROR    | parser.ebay_checker:login:32 - Account ['wIUZD9kCzEnSQF1H@monmail.fr.nf', 'FGYIsxPGbhRwVV8n'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.291 | ERROR    | parser.ebay_checker:login:32 - Account ['p4UaN3hWnx0NXtN7@monemail.fr.nf', 'CZKAnNUFKdlHtt8s'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.292 | ERROR    | parser.ebay_checker:login:32 - Account ['nKfMkzGXgmsVVAVE@moncourrier.fr.nf', 'B1E9ygGKlMr04edG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.294 | ERROR    | parser.ebay_checker:login:32 - Account ['zMeMaMXUFT7p6wKY@jetable.fr.nf', 'To2xdPDTVsoRO1Wv'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.295 | ERROR    | parser.ebay_checker:login:32 - Account ['uoRRQB13OiT1zsaG@yopmail.fr', '5L3F5exA6weA9GZG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.298 | ERROR    | parser.ebay_checker:login:32 - Account ['BlTdAoOSOBdWVCYg@jetable.fr.nf', '5cCDYG52gc4LvGfW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.299 | ERROR    | parser.ebay_checker:login:32 - Account ['3WzWRKbSLnHg8E4n@monemail.fr.nf', 'KGlyVY0lzyA4QOVv'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.301 | ERROR    | parser.ebay_checker:login:32 - Account ['3oXEg687OvPo9oMR@jetable.fr.nf', '3gis3s6nDozZGl7v'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.303 | ERROR    | parser.ebay_checker:login:32 - Account ['PERsqMek4AVDgqX1@hide.biz.st', 'L8GdRs0sESkAdFZB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.305 | ERROR    | parser.ebay_checker:login:32 - Account ['9KrTkuImWwVG6QDz@jetable.fr.nf', 'KT5ISymOI1yfOE2k'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.307 | ERROR    | parser.ebay_checker:login:32 - Account ['IbrZRXzyQsi5o2hc@cool.fr.nf', 'Y1sM9IZc5uVy5plD'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.308 | ERROR    | parser.ebay_checker:login:32 - Account ['0bm8rgiT7XAsWh1s@hide.biz.st', 'yGwGtM2Ph0DZHKFQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.310 | ERROR    | parser.ebay_checker:login:32 - Account ['2UXficHM31lGpPRh@monemail.fr.nf', 'DqvGgegfrkSsNGGC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.312 | ERROR    | parser.ebay_checker:login:32 - Account ['rIOTaFfFioBYhFl8@yopmail.net', 'dHYtGArWr4DSu8va'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.314 | ERROR    | parser.ebay_checker:login:32 - Account ['i4DsFCX9WPTGggmX@moncourrier.fr.nf', 'OaQlHu3RmcRX0V4D'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.315 | ERROR    | parser.ebay_checker:login:32 - Account ['AWf6BuElkEeb77Gg@monmail.fr.nf', 'i0eaAGH6qvAfsOfH'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.317 | ERROR    | parser.ebay_checker:login:32 - Account ['WvrGgvxYQfGq7uGC@mymail.infos.st', 'ac5gIy9GmaCDlEaR'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.319 | ERROR    | parser.ebay_checker:login:32 - Account ['aXA5ZteCnX2mh59F@hide.biz.st', 'RgTrbx0nS8gaDDeo'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.320 | ERROR    | parser.ebay_checker:login:32 - Account ['ZPyhNl3HwZmwBbua@mymail.infos.st', '5a0zd4V0lVUBq8g2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.321 | ERROR    | parser.ebay_checker:login:32 - Account ['Mb2RULHvWMxEwmsO@cool.fr.nf', 'TvdYVosRyE1OqcSQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.323 | ERROR    | parser.ebay_checker:login:32 - Account ['1CD94TUYhqn5l9X4@yopmail.com', '5CXTqWHM4K2g91ha'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.325 | ERROR    | parser.ebay_checker:login:32 - Account ['gKt9OaQAeNVhsk4y@yopmail.fr', '4s97YvIgVibq0iFQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.327 | ERROR    | parser.ebay_checker:login:32 - Account ['xfFN9FFUYhgEatPa@hide.biz.st', 'T6LN7Mv4030Lt5AC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.329 | ERROR    | parser.ebay_checker:login:32 - Account ['Mf2duu9QyInDXqWx@monemail.fr.nf', 'SRLRHufTeom3MxRi'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.331 | ERROR    | parser.ebay_checker:login:32 - Account ['PiaQVFvH6QC9ryIF@yopmail.net', '2k9Hwvoux4igVKMo'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.333 | ERROR    | parser.ebay_checker:login:32 - Account ['DwwFWQObg9wg3EEk@yopmail.fr', '5SoNhWZotF7KGkk4'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.335 | ERROR    | parser.ebay_checker:login:32 - Account ['cqdvOGW8KF61yuSN@monemail.fr.nf', 'DUC5eGF30G3QnxH7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.336 | ERROR    | parser.ebay_checker:login:32 - Account ['VMgeuY9FyAF0qfq8@jetable.fr.nf', 'rshQXQ9SfxZiTFH0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.339 | ERROR    | parser.ebay_checker:login:32 - Account ['MGGBRWiEaUfWzV26@mymail.infos.st', 'lWs9k2pzBrCtVySV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.340 | ERROR    | parser.ebay_checker:login:32 - Account ['qgxSnDHqGRx99eQ9@yopmail.com', 'ggFPPvgEZexRlx8g'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.342 | ERROR    | parser.ebay_checker:login:32 - Account ['wRG5oQW9Rc2TI9o6@yopmail.com', 'duItknz8onQwGV0E'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.344 | ERROR    | parser.ebay_checker:login:32 - Account ['Ll0fZzDVmkIKHYyp@jetable.fr.nf', '0fttUwaE4YXBl2lW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.346 | ERROR    | parser.ebay_checker:login:32 - Account ['X7iqdcGOtVaZkvWi@yopmail.fr', '4gHc0QlpMzatgR97'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.348 | ERROR    | parser.ebay_checker:login:32 - Account ['IqSuruZgspSDOwCv@yopmail.net', 'D1TudZMTIdABHG7O'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.350 | ERROR    | parser.ebay_checker:login:32 - Account ['vfdMnsikaztnvbNg@yopmail.fr', '0RzbhmYA77QtMFie'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.352 | ERROR    | parser.ebay_checker:login:32 - Account ['u6Dyn2CSFmF9Mt8y@moncourrier.fr.nf', 'SucEH4zYcT2rGZyf'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.354 | ERROR    | parser.ebay_checker:login:32 - Account ['9re6tqlivGe9ZVRc@yopmail.net', 'dhHdW661hiz9CQ7U'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.355 | ERROR    | parser.ebay_checker:login:32 - Account ['QVzg3gxWoBwHqg5q@monmail.fr.nf', '1fQPbXXDbiL8heEt'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.357 | ERROR    | parser.ebay_checker:login:32 - Account ['uYYcNbcdTwV2LsLb@monemail.fr.nf', 'nZHfMk8GO01qUcpa'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.359 | ERROR    | parser.ebay_checker:login:32 - Account ['zw4kInvSHg31QoZ4@mymail.infos.st', 'xSHhf5tzEVb1fh1T'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.361 | ERROR    | parser.ebay_checker:login:32 - Account ['LR5RWG6XyMkL4qZU@mymail.infos.st', 'tH1qoXBKkdLLULG2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.363 | ERROR    | parser.ebay_checker:login:32 - Account ['WT2B4IXQ8cLh3BrO@cool.fr.nf', 'Z1bOUt9sDOM2dhB5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.365 | ERROR    | parser.ebay_checker:login:32 - Account ['Yh1Hv7U6X7LgAUh4@moncourrier.fr.nf', 'l1THXBrBbBmaZg7l'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.367 | ERROR    | parser.ebay_checker:login:32 - Account ['cM8TgFlmgFdXtFg8@monmail.fr.nf', '5a3riIga8T3ExlOG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.369 | ERROR    | parser.ebay_checker:login:32 - Account ['u56NTPBbHBRg8kHl@monmail.fr.nf', 'ZOGsWDU3rhflge79'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.370 | ERROR    | parser.ebay_checker:login:32 - Account ['GmsMYcQ2t9gA0WPk@cool.fr.nf', 'A3Hx81ZbgTdqHdRB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.372 | ERROR    | parser.ebay_checker:login:32 - Account ['kgrDZATnYKgVs2Bt@mymail.infos.st', 'Kt4uowb6t7mkUZdC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.374 | ERROR    | parser.ebay_checker:login:32 - Account ['IaRO0PzyLHfBY2Mg@monemail.fr.nf', 'gmYcSmhFI9tuElUP'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.377 | ERROR    | parser.ebay_checker:login:32 - Account ['0kuCzCADZSaPPPse@moncourrier.fr.nf', 'pIqntxp8Lngt9Ve5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.378 | ERROR    | parser.ebay_checker:login:32 - Account ['bmQK3gSfG8kzEk5P@mymail.infos.st', 'GC1LoZ9hugvbgE45'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.381 | ERROR    | parser.ebay_checker:login:32 - Account ['qfckHqArFas0eVDF@jetable.fr.nf', 'hGId359ZEwvvZgE5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.383 | ERROR    | parser.ebay_checker:login:32 - Account ['UaxogLs20vfqiQDa@mymail.infos.st', 'E37mKqdL303hhY7n'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.385 | ERROR    | parser.ebay_checker:login:32 - Account ['HnxrGFgRWPrBlAZG@monemail.fr.nf', 'GKQtSaALw8VBDYLS'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.387 | ERROR    | parser.ebay_checker:login:32 - Account ['CE9pvoMtHU3DVARf@yopmail.fr', 'lQriS23GDTG4DqIW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.389 | ERROR    | parser.ebay_checker:login:32 - Account ['ZzBZfnG64SLnmKR2@monmail.fr.nf', '3522NKzGGs0OdT7X'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.391 | ERROR    | parser.ebay_checker:login:32 - Account ['9zRq2YyKqlADZnQ5@jetable.fr.nf', 'Tt7zeo1s8pXbzsQ8'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.393 | ERROR    | parser.ebay_checker:login:32 - Account ['AtAsY0gwZGdgBtmW@yopmail.com', 'vueOHCkMDlLLiVRN'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.395 | ERROR    | parser.ebay_checker:login:32 - Account ['U7YqSzp9sgW2fktn@jetable.fr.nf', 'LtiLk1pe6trkihhB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.397 | ERROR    | parser.ebay_checker:login:32 - Account ['PicqO77xolbIyui2@mymail.infos.st', 'khhfsH3mRwUWlbvQ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.399 | ERROR    | parser.ebay_checker:login:32 - Account ['g4G3lcgZN3ugVyge@monmail.fr.nf', '2f4gTiW48GKdXeC2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.401 | ERROR    | parser.ebay_checker:login:32 - Account ['40pIlT9GmWkIitrI@monemail.fr.nf', 'WRLPI6U5S7D0xu8R'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.404 | ERROR    | parser.ebay_checker:login:32 - Account ['TA82UE7bb41T5crr@mymail.infos.st', 'CDfNXxWADGp7SzaD'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.406 | ERROR    | parser.ebay_checker:login:32 - Account ['z1vSdbBKBgGboBwO@yopmail.net', 'zpegbxC55nvZtVtW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.409 | ERROR    | parser.ebay_checker:login:32 - Account ['VvnB9GrN0oKOAwpY@yopmail.fr', 'wPwOkqpdVau7mPTX'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.411 | ERROR    | parser.ebay_checker:login:32 - Account ['mtfl4ukPnynTMNap@yopmail.com', 'ddPE3oalcag9A3K7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.413 | ERROR    | parser.ebay_checker:login:32 - Account ['Ec8vxkdT30Nyn1KC@mymail.infos.st', '0D4MGpRmvnKPes7o'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.416 | ERROR    | parser.ebay_checker:login:32 - Account ['qDIDfxgn0CQQ0pAf@monmail.fr.nf', 'OuughVxg8RZAr6V5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.418 | ERROR    | parser.ebay_checker:login:32 - Account ['OHfVtPPpa0V79RUs@courriel.fr.nf', 'Ow3uFpykuqmRSHB8'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.419 | ERROR    | parser.ebay_checker:login:32 - Account ['z4B7crICWlYqG4Na@moncourrier.fr.nf', 'f4D6WwzkbTATCWSc'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.422 | ERROR    | parser.ebay_checker:login:32 - Account ['DkpTtaXeWqR1cl4H@monmail.fr.nf', 'tgvgcqdS4ePXU7yf'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.425 | ERROR    | parser.ebay_checker:login:32 - Account ['aQXaFDzHM7N9C5UF@yopmail.com', 'vPOb67Cxkun2fopv'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.426 | ERROR    | parser.ebay_checker:login:32 - Account ['CBRnkeMGLitdyToh@moncourrier.fr.nf', 'iZ0I6tZBttGnlm4t'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.429 | ERROR    | parser.ebay_checker:login:32 - Account ['HYD1Y6QimyxgZkqo@yopmail.com', '1pWLgWqDVVHrL5vE'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.431 | ERROR    | parser.ebay_checker:login:32 - Account ['rlkHwBMU3vsfPmz2@moncourrier.fr.nf', 'nGncfTg3cPhoRX70'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.432 | ERROR    | parser.ebay_checker:login:32 - Account ['pbLqiaDEC5PdiF1Y@cool.fr.nf', 'vuE8kqndNM7epPNX'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.434 | ERROR    | parser.ebay_checker:login:32 - Account ['68p1crPGhmyY9dPG@hide.biz.st', 'C19ly7SeRa7Hq0PE'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.436 | ERROR    | parser.ebay_checker:login:32 - Account ['585aaCfEp5q8AkAn@jetable.fr.nf', 'KacK411LAhegvhwV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.438 | ERROR    | parser.ebay_checker:login:32 - Account ['EWFxYbK0UT1LcBQx@yopmail.fr', 'Um94SE9bp7AK9T4e'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.440 | ERROR    | parser.ebay_checker:login:32 - Account ['zGOgePwQOcIb7qg5@monmail.fr.nf', '56AFWacG5geXKBbs'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.442 | ERROR    | parser.ebay_checker:login:32 - Account ['RhReDMfAohphaWXu@jetable.fr.nf', 'GTbm6S6k2vuZduWu'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.444 | ERROR    | parser.ebay_checker:login:32 - Account ['DIcPGoFWuqLE1hQ5@yopmail.fr', 'dzIPcVFq4wS31CfG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.446 | ERROR    | parser.ebay_checker:login:32 - Account ['ntwigHOtqWFkLzGK@courriel.fr.nf', '4QCmgqbPkOgAFrs7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.447 | ERROR    | parser.ebay_checker:login:32 - Account ['PEDyKb039GmReGXB@jetable.fr.nf', 'k3B8rM9kUGFdo6DK'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.450 | ERROR    | parser.ebay_checker:login:32 - Account ['XUgxukiUpswP7KVZ@cool.fr.nf', 'Utgzd8gRlYQb4nCW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.452 | ERROR    | parser.ebay_checker:login:32 - Account ['3hRW8gNDkypv5G5l@mymail.infos.st', 'xIMaFkOBBpuW8R4D'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.453 | ERROR    | parser.ebay_checker:login:32 - Account ['sbG8CO2h8cNdAriR@cool.fr.nf', 'gF8l6xZYYlriXgce'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.455 | ERROR    | parser.ebay_checker:login:32 - Account ['Ea2lgN87LbBdwsQB@jetable.fr.nf', 'g2OkNeAIu3MkPDgP'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.458 | ERROR    | parser.ebay_checker:login:32 - Account ['6PoZRb24TwGA9Ga5@courriel.fr.nf', 'BFGatoHNOYLedEo0'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.459 | ERROR    | parser.ebay_checker:login:32 - Account ['r5XBODFIUXGZg7Vf@yopmail.fr', '1xpZBT9ETui7XqIU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.461 | ERROR    | parser.ebay_checker:login:32 - Account ['pKq6GbGvIf9OLNp3@yopmail.fr', 'GgwsGiCnI5s2MVCy'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.463 | ERROR    | parser.ebay_checker:login:32 - Account ['UFLfs112WsApycqI@yopmail.com', 'd7BXELTZINHbP2Zs'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.465 | ERROR    | parser.ebay_checker:login:32 - Account ['IHLaGNseeqgDNEVE@hide.biz.st', 'BZIhl3RbrwOvsSBb'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.467 | ERROR    | parser.ebay_checker:login:32 - Account ['7oYwogddo7Umdkg8@moncourrier.fr.nf', 'Rong1mTmsFIXByW9'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.469 | ERROR    | parser.ebay_checker:login:32 - Account ['U0Q6XQEsB5UgIoEN@monemail.fr.nf', 't1v68uem1c4KRVBD'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.471 | ERROR    | parser.ebay_checker:login:32 - Account ['4uhIwM4fXLV4QFMe@hide.biz.st', 'qWmCf4KRsfchQrUN'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.473 | ERROR    | parser.ebay_checker:login:32 - Account ['O9vX5N34lVfr3hR9@cool.fr.nf', 'TGfRk6MMwCeyGVMV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.475 | ERROR    | parser.ebay_checker:login:32 - Account ['qmGYE0kdTmVgkI5B@monmail.fr.nf', 'eNZfaRF4GhlwpRVl'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.477 | ERROR    | parser.ebay_checker:login:32 - Account ['HVKUv3rDNaIigdTM@mymail.infos.st', 'vSZtd6QXaTgI6hXO'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.479 | ERROR    | parser.ebay_checker:login:32 - Account ['O5lGBAb5mohQdN3X@yopmail.com', 'hrkpWfZT1ZVDTOrh'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.481 | ERROR    | parser.ebay_checker:login:32 - Account ['vryFYbpD5CGGbIdb@courriel.fr.nf', 'WT5daY56dyg5SoBV'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.482 | ERROR    | parser.ebay_checker:login:32 - Account ['Ho4up7Yt1Idu6bn9@mymail.infos.st', 'oH2z0ubftNXOsYBK'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.485 | ERROR    | parser.ebay_checker:login:32 - Account ['n2aDClkkG0qTsOSE@yopmail.net', 'LQlaTbVuAt5odd2V'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.487 | ERROR    | parser.ebay_checker:login:32 - Account ['le62id8GIAbxIGBn@moncourrier.fr.nf', 'VunRogm7s7U7L4a5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.488 | ERROR    | parser.ebay_checker:login:32 - Account ['Rs03kBEwwtvMG5Uo@yopmail.net', 'MGxuOrtrh9Qtl8Z6'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.490 | ERROR    | parser.ebay_checker:login:32 - Account ['fpKeIzxaRphIx8gz@yopmail.com', 'ycIL5AoT4ui91auF'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.492 | ERROR    | parser.ebay_checker:login:32 - Account ['GT3gegvemBAxSFhP@monmail.fr.nf', 'N2v0zzbtu0c0SkOM'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.494 | ERROR    | parser.ebay_checker:login:32 - Account ['GPduGMSha5AZiOzk@yopmail.fr', 'Mqzvvp7VRhwKZIZt'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.495 | ERROR    | parser.ebay_checker:login:32 - Account ['BLRGMiFL0CYUs9vu@mymail.infos.st', 'oOMdLqNnFYBpb1Wl'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.498 | ERROR    | parser.ebay_checker:login:32 - Account ['fuua1oq3wYrfWF9X@jetable.fr.nf', 'Bm3y73H1bIwgy9WI'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.500 | ERROR    | parser.ebay_checker:login:32 - Account ['79ainHGS0A9bVi6G@yopmail.com', '6QfTSbgsnzQltZGT'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.502 | ERROR    | parser.ebay_checker:login:32 - Account ['yb8KW2gmzEt8yOal@yopmail.net', 'WDLUhBDH7d1MAGLy'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.503 | ERROR    | parser.ebay_checker:login:32 - Account ['nsHu6hb6XM9XCAA9@yopmail.net', 'YXRkufmNI93gATl8'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.506 | ERROR    | parser.ebay_checker:login:32 - Account ['AtDRpgr1cZSFogA7@yopmail.fr', 'egbtcMbRRtzW9tGg'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.508 | ERROR    | parser.ebay_checker:login:32 - Account ['Eq0Eqv9zseY29FTp@yopmail.net', 'GMZX0v9f5MxYB2Kb'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.509 | ERROR    | parser.ebay_checker:login:32 - Account ['nDEhMGuBl5VFKqSY@mymail.infos.st', 'PW7735GtOkXQSD2e'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.511 | ERROR    | parser.ebay_checker:login:32 - Account ['9R19nX6xpGywnaQU@monemail.fr.nf', 'GtLBoIVmA77RQG6z'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.513 | ERROR    | parser.ebay_checker:login:32 - Account ['HEvxz0RKGTyL46eD@monmail.fr.nf', 'f4eW74kiQybZ02h4'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.515 | ERROR    | parser.ebay_checker:login:32 - Account ['BGLYzseuLQCFQQBE@monemail.fr.nf', 'LE0GWGS2PoRTMMEh'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.517 | ERROR    | parser.ebay_checker:login:32 - Account ['icLGPXi2H05gqblY@yopmail.fr', '5Zosy8S4mf6IyuFx'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.519 | ERROR    | parser.ebay_checker:login:32 - Account ['tCHfXmtGGhFsslpk@monemail.fr.nf', 'yIg9o9l9qucAUNxc'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.521 | ERROR    | parser.ebay_checker:login:32 - Account ['oFGCLWGNSHhSHnNh@yopmail.com', 'GevkK2RnSGtEHqtP'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.523 | ERROR    | parser.ebay_checker:login:32 - Account ['dk3gSGSaao1IvaUY@courriel.fr.nf', 'KrxEwFp9cn3KU239'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.524 | ERROR    | parser.ebay_checker:login:32 - Account ['rOtbmctuHLlfe8mZ@courriel.fr.nf', '8gGgAhuDCtAwLH8r'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.526 | ERROR    | parser.ebay_checker:login:32 - Account ['wxQ8wYDhop1op6mf@cool.fr.nf', 'wpGPVfCspPVGDgAk'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.527 | ERROR    | parser.ebay_checker:login:32 - Account ['cBo9rPUtBLUOSR0k@monemail.fr.nf', '7Munxa3HoPfPGNtB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.529 | ERROR    | parser.ebay_checker:login:32 - Account ['qYnXNY6a5LtSuYM1@hide.biz.st', 'ILckmrgzNOrgg3uH'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.531 | ERROR    | parser.ebay_checker:login:32 - Account ['4IfL2UXWgAUwqEaK@jetable.fr.nf', 'LSPGuXS4iVv1rq5g'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.533 | ERROR    | parser.ebay_checker:login:32 - Account ['s8myt59cInurcd9d@hide.biz.st', 'ZtswdwzQpbkpc8OP'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.535 | ERROR    | parser.ebay_checker:login:32 - Account ['KEyXGVvglDSpgOch@yopmail.fr', '9yGEFfovmz3sZmmU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.537 | ERROR    | parser.ebay_checker:login:32 - Account ['cuOiPVU75uWq19Ax@hide.biz.st', 'iTWmruh3D3pTC0Pd'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.539 | ERROR    | parser.ebay_checker:login:32 - Account ['YLhV6vOds2Zbk9Sz@yopmail.net', '0eQ5Os44pySoC1b9'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.541 | ERROR    | parser.ebay_checker:login:32 - Account ['ChCae3Br7Hg9gvtd@yopmail.fr', 'cx98iCBdrgYMosy2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.542 | ERROR    | parser.ebay_checker:login:32 - Account ['nf48tu9mapTN3Gu9@yopmail.net', 'nMu76xUEaMIFNErK'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.544 | ERROR    | parser.ebay_checker:login:32 - Account ['r99mAMBzuYggzUYy@courriel.fr.nf', 'E6ceGf3LgYspY9LG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.546 | ERROR    | parser.ebay_checker:login:32 - Account ['WsvNngNSSIrH7sKC@moncourrier.fr.nf', 'tLx5NhisxV4Q8Pw2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.548 | ERROR    | parser.ebay_checker:login:32 - Account ['7vwAvW9yyI7qP1Wa@mymail.infos.st', 'rXIm44FkgUvnrN53'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.550 | ERROR    | parser.ebay_checker:login:32 - Account ['GH2fcnGnOfaE70Kr@yopmail.com', 'OdEQTrPFxoe6o9ai'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.552 | ERROR    | parser.ebay_checker:login:32 - Account ['CwGghG5ldlMdI8W4@hide.biz.st', 'fGffHgAe1tHmSFGU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.554 | ERROR    | parser.ebay_checker:login:32 - Account ['CR8Q047Y68KAtwho@yopmail.net', 'NCfVhsZx7gYtuYVg'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.556 | ERROR    | parser.ebay_checker:login:32 - Account ['5erQvxR5OnBrF4z3@moncourrier.fr.nf', 'FlCqLluOHMG1b68e'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.557 | ERROR    | parser.ebay_checker:login:32 - Account ['GFnRuQ66K728OioH@hide.biz.st', 'aNIO1iy0AzSbIHTZ'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.559 | ERROR    | parser.ebay_checker:login:32 - Account ['ia23sHo4NO3IFxz4@courriel.fr.nf', '8rAyPwUxd74haM8d'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.561 | ERROR    | parser.ebay_checker:login:32 - Account ['bLpsHle75csFU6Gh@yopmail.com', 'SASMutpYDTAPhCSd'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.563 | ERROR    | parser.ebay_checker:login:32 - Account ['BQ7ZP7v41tPkpcRM@yopmail.com', 'vWW8XgpgXP5W871c'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.565 | ERROR    | parser.ebay_checker:login:32 - Account ['4IlhRlhLK1hhiEfZ@yopmail.com', 'R4XyWOCKo6QG6sxW'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.567 | ERROR    | parser.ebay_checker:login:32 - Account ['tqZCTQhLHaqD5UYv@yopmail.fr', 'ZiGmy63BZ3ECx6vG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.569 | ERROR    | parser.ebay_checker:login:32 - Account ['T933ITS0kgNcf8Rq@monemail.fr.nf', 'dg6b9DCBtUPETvER'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.571 | ERROR    | parser.ebay_checker:login:32 - Account ['ObEn2R5KaRMbFtoN@jetable.fr.nf', 'Emvtf6AD26PAB2yi'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.572 | ERROR    | parser.ebay_checker:login:32 - Account ['QGI3CkNWVeaiiYK2@hide.biz.st', 'x8afQ54QGwUaXBLw'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.574 | ERROR    | parser.ebay_checker:login:32 - Account ['kp8BcAHbmB93pTCA@yopmail.fr', 'Fkx2Y50VLkqNbfny'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.576 | ERROR    | parser.ebay_checker:login:32 - Account ['ck3zcIrMMpEQE7qD@moncourrier.fr.nf', 'e8Yvq7VXxpXoGbQL'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.578 | ERROR    | parser.ebay_checker:login:32 - Account ['B2qlhgkQyiTUEhWn@yopmail.net', 'mC0ytUR6nlfTLzEG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.580 | ERROR    | parser.ebay_checker:login:32 - Account ['GXXFsqTtxMtLldxn@moncourrier.fr.nf', 'SuZKyUzoTFWNPLvs'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.582 | ERROR    | parser.ebay_checker:login:32 - Account ['ZNDc6myG0Qqly7iX@monmail.fr.nf', 'gy2L6TfwUXTyn1HC'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.584 | ERROR    | parser.ebay_checker:login:32 - Account ['AluQnZ3lNLgbax52@monemail.fr.nf', 'WzvU5CSURzKQoZdk'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.586 | ERROR    | parser.ebay_checker:login:32 - Account ['ougXg9I2HX0Yxgn1@courriel.fr.nf', 'McqoDIi7FQriGHqi'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.588 | ERROR    | parser.ebay_checker:login:32 - Account ['Sq6sIFY4TWKHfyou@cool.fr.nf', '52lCSfPrO2mR93S2'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.590 | ERROR    | parser.ebay_checker:login:32 - Account ['SLgGaHclBoBmadqC@yopmail.net', 'cpxc2XVpl7uY6SS5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.592 | ERROR    | parser.ebay_checker:login:32 - Account ['oQspmkHx3UH6wnpg@cool.fr.nf', 'vLKxcNhI9GXOlWHy'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.593 | ERROR    | parser.ebay_checker:login:32 - Account ['fQ91bTXk2Mx6pPc2@mymail.infos.st', 'FCfgaxSMbqBvk9pO'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.596 | ERROR    | parser.ebay_checker:login:32 - Account ['asuGm5TMoQYLqgKG@cool.fr.nf', 'g3TYtPFvp7Dyu4xL'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.598 | ERROR    | parser.ebay_checker:login:32 - Account ['xtEHvPWUfMobBpFA@yopmail.com', 'Hya9o8AM18KL5Pn5'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.599 | ERROR    | parser.ebay_checker:login:32 - Account ['4Qe8IqZKG4Whlxtg@jetable.fr.nf', 'S97Dbw0i1W7XQcfl'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.601 | ERROR    | parser.ebay_checker:login:32 - Account ['ZYBBSKDfPgix4B6y@jetable.fr.nf', 'rEiwRStAI3fLVYRB'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.603 | ERROR    | parser.ebay_checker:login:32 - Account ['YxTMS9h1fTo0gGOn@courriel.fr.nf', 'EgFUTZsfrIg2vahN'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.605 | ERROR    | parser.ebay_checker:login:32 - Account ['Gw6GYS0eMiEBKHNR@hide.biz.st', 'UDG4ORVGiznkdegG'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.607 | ERROR    | parser.ebay_checker:login:32 - Account ['oHncGLSUkuAFgxNk@monemail.fr.nf', '9Mum6Hx48qe5NMl7'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.609 | ERROR    | parser.ebay_checker:login:32 - Account ['VXGLpvrG7Eq0rY2y@yopmail.fr', 'ZQsUkIS8b4RDNK1E'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.611 | ERROR    | parser.ebay_checker:login:32 - Account ['It9EZwwFDhx1xUXx@courriel.fr.nf', 'r8L3N817q7526NcD'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.613 | ERROR    | parser.ebay_checker:login:32 - Account ['BN6VVGlyU8WDyoPY@monmail.fr.nf', 'wGciwHyH5kBF4AMx'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.614 | ERROR    | parser.ebay_checker:login:32 - Account ['XC0mvTtrq5koK9xl@moncourrier.fr.nf', 'Q6gCxXGvpb7UGFIM'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.617 | ERROR    | parser.ebay_checker:login:32 - Account ['00wncXmWpGviTco9@jetable.fr.nf', '3Ygia7LlNlqIpddU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.618 | ERROR    | parser.ebay_checker:login:32 - Account ['dz0Q14YiH25i7AtC@monmail.fr.nf', 'X6KlmQfE8ApHZfBM'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.620 | ERROR    | parser.ebay_checker:login:32 - Account ['SgWquLlQGhW2UC1t@cool.fr.nf', 'y9OAQ7oyBWSALFkY'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.622 | ERROR    | parser.ebay_checker:login:32 - Account ['8dCpaGz3MMCn6rWG@monemail.fr.nf', 'ASQlyFdDwMM812tX'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.624 | ERROR    | parser.ebay_checker:login:32 - Account ['1hhEcYRnzcutvUOg@yopmail.com', 'L8w5gVOtbEuG4WFh'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.626 | ERROR    | parser.ebay_checker:login:32 - Account ['fPrpPRUaV1FgoKqB@yopmail.fr', 'MgGFOF2RX5D8VBV1'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.628 | ERROR    | parser.ebay_checker:login:32 - Account ['eIXrtMgz4zgskDUL@mymail.infos.st', 'H3OwAoHkbBRW3XZg'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.629 | ERROR    | parser.ebay_checker:login:32 - Account ['V0221IkcdWFwmay5@yopmail.com', 'bgPYWNyChSOGqEYR'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.632 | ERROR    | parser.ebay_checker:login:32 - Account ['hKGDAi1PiNwmvNmm@moncourrier.fr.nf', '43sxGG1tg7n0twSt'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.633 | ERROR    | parser.ebay_checker:login:32 - Account ['d5aHZ19Ep8AMEBnM@hide.biz.st', 'kxfztfuH6SH1CZxu'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.635 | ERROR    | parser.ebay_checker:login:32 - Account ['6NtuieCSz3pi2CmI@courriel.fr.nf', 'OGTRKu1UmI8OifIL'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.637 | ERROR    | parser.ebay_checker:login:32 - Account ['acLk66OzbFURDgCu@cool.fr.nf', 'ghKxQpdWzLs2B69z'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.639 | ERROR    | parser.ebay_checker:login:32 - Account ['q8o480IueLnhBOdd@cool.fr.nf', '3MFa6ef0g5tYSSQr'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.641 | ERROR    | parser.ebay_checker:login:32 - Account ['K6OwC3M97DYZwcdT@yopmail.com', 'mWuxfVTRogs1HlBo'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.642 | ERROR    | parser.ebay_checker:login:32 - Account ['oS3d3Pf0SaHdIaXp@cool.fr.nf', '3tRZikbua6KZZrpU'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.644 | ERROR    | parser.ebay_checker:login:32 - Account ['N9WxpALminzO4Moz@jetable.fr.nf', 'ZGMO2GL4B0WhDECF'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.646 | ERROR    | parser.ebay_checker:login:32 - Account ['lLhrCxl4MerCBq42@monemail.fr.nf', 'M3OUXO4XBuQuWlbl'] is invalid. Wrote into bad account file
+2023-01-24 21:09:13.647 | WARNING  | __main__:<module>:54 - Parser shutdown

@@ -1,0 +1,6 @@
+ACCOUNTS_FILE: str = "accs.txt"
+PROXY_FILE: str = "proxy.txt"
+ACCOUNTS_OUTPUT_FILE: str = "accs_output.txt"
+BAD_ACCOUNTS_OUTPUT_FILE: str = "bad_accs_output.txt"
+USER_AGENT_FILE: str = "user-agent.txt"
+EBAY_LOGIN_URL: str = "https://signin.ebay.com/signin/"
