@@ -8,7 +8,7 @@ The program utilizes Python's asynchronous capabilities to verify a set of user 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/ebay_checker.git`
+1. Clone the repository: `git clone https://github.com/Craxti/ebay_checker.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
