@@ -10,13 +10,17 @@ async def getAccounts(filename: str) -> list:
     Returns:
         `list`: `['login:password', 'login:password', 'login:password']`
     """
-    with open(file=filename, mode="r", buffering=1) as file:
-        accounts: list = file.read().split("\n")
-        logger.info(
-            "read new accounts ({acc} pcs)",
-            acc=len(accounts),
-        )
-    return accounts
+    try:
+        with open(filename, mode="r", buffering=1) as file:
+            accounts: list = file.read().split("\n")
+            logger.info(
+                "read new accounts ({acc} pcs)",
+                acc=len(accounts),
+            )
+        return accounts
+    except FileNotFoundError:
+        logger.error("File not found: {filename}", filename=filename)
+        return []
 
 
 async def saveAccount(
@@ -37,7 +41,6 @@ async def saveAccount(
     Returns:
         `str`: `login:password / UserID:user_id / Country:country / CC:cc / PP:pp`
     """
-
     data: str = (
         f"{login}:{password} / "
         f"UserID: {user_id} / "
@@ -45,16 +48,20 @@ async def saveAccount(
         f"CC: {cc} / PP: {pp}"
     )
 
-    with open(file=filename, mode="w+", buffering=1) as file:
-        file.write(data)
+    try:
+        with open(filename, mode="w+", buffering=1) as file:
+            file.write(data)
 
-    logger.info(
-        "new user({user}) has been recorded in {file}",
-        file=file,
-        user=login,
-    )
+        logger.info(
+            "new user({user}) has been recorded in {file}",
+            file=file,
+            user=login,
+        )
 
-    return data
+        return data
+    except IOError:
+        logger.error("Error writing to file: {filename}", filename=filename)
+        return ""
 
 
 async def saveBadAccount(filename: str, account: list) -> None:
@@ -67,11 +74,15 @@ async def saveBadAccount(filename: str, account: list) -> None:
     Returns:
         _type_: _description_
     """
-    with open(filename, "w+") as file:
-        file.write(f"{account[0]}:{account[1]}\n")
 
-    return logger.info(
-        "bad account({user}) has been recorded in {file}",
-        user=account,
-        file=filename,
-    )
+    try:
+        with open(filename, "w+") as file:
+            file.write(f"{account[0]}:{account[1]}\n")
+
+        logger.info(
+            "bad account({user}) has been recorded in {file}",
+            user=account,
+            file=filename,
+        )
+    except IOError:
+        logger.error("Error writing to file: {filename}", filename=filename)
